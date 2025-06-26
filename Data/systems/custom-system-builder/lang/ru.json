@@ -1,0 +1,644 @@
+{
+    "CSB": {
+        "ActiveEffects": {
+            "AddToPredefinedButton": {
+                "Text": "Добавить в список",
+                "Tooltip": "Добавить активный эффект в предопределенный список активных эффектов"
+            },
+            "RemoveFromPredefinedButton": {
+                "Text": "Удалить из списка",
+                "Tooltip": "Удалить активный эффект из предопределенного списка активных эффектов"
+            },
+            "UpdatePredefinedButton": {
+                "Text": "Для обновления",
+                "Tooltip": "Обновить предопределенный активный эффект в предопределенном списке активных эффектов"
+            },
+            "Transfer": {
+                "Name": "Применить Эффект к Владельцу",
+                "Hint": "Если активно, этот эффект будет применяться ко всем актерам или предметам, которые владеют предметом который имеет данный эффект."
+            },
+            "EffectPriorityLabel": "Приоритет Эффекта",
+            "ConfigureCounter": "Открыть настройку приоритета"
+        },
+        "Attributes": {
+            "AttributeBarsDialog": {
+                "Title": "Индикаторы характеристик актера"
+            },
+            "EditAttributeBarsDialog": {
+                "MissingData": "Для каждого показателя должны быть указаны Имя, Значение и Максимум",
+                "Title": "Редактирование показателей"
+            },
+            "EditHiddenAttributesDialog": {
+                "MissingData": "Для каждого атрибута должны быть указаны Имя и Формула",
+                "Title": "Редактирование атрибутов"
+            },
+            "Formula": "Формула",
+            "HiddenAttributesDialog": {
+                "Title": "Скрытые атрибуты актера"
+            },
+            "Maximum": "Максимум",
+            "Name": "Имя",
+            "Value": "Значение"
+        },
+        "ChatCommands": {
+            "SheetRollCommand": "Сделать бросок из листа персонажа",
+            "SheetAltRollCommand": "Сделать альтернативный бросок из листа персонажа",
+            "ActorNotFound": "Не найден подходящий актер для броска"
+        },
+        "ComponentProperties": {
+            "ActiveEffectContainer": {
+                "Columns": {
+                    "Ref": {
+                        "Title": "Столбец ссылок на активный эффект",
+                        "LabelDefault": "Название"
+                    },
+                    "Active": {
+                        "Title": "Столбец состояния активного эффекта",
+                        "LabelDefault": "Активно"
+                    },
+                    "Origin": {
+                        "Title": "Столбец количества активных эффектов",
+                        "LabelDefault": "Исходник"
+                    },
+                    "Description": {
+                        "Title": "Столбец описания активных эффектов",
+                        "LabelDefault": "Описание",
+                        "Format": {
+                            "Full": "Полное описание",
+                            "Short": "Только первое предложение"
+                        }
+                    },
+                    "Count": {
+                        "Title": "Столбец количества активных эффектов",
+                        "LabelDefault": "Количество"
+                    }
+                },
+                "DeleteActiveEffectDialog": {
+                    "Content": "Вы уверены, что хотите удалить этот активный эффект?",
+                    "Title": "Удаление активного эффекта"
+                },
+                "HideEmpty": "Скрывать пустые",
+                "ShowConfirmationDialogOnActiveEffectDelete": "Показывать подтверждение при удалении",
+                "ShowActiveEffectDeleteButton": "Показывать кнопку удаления эффекта",
+                "TableTitle": "Заголовок таблицы",
+                "ShowCreateButton": "Показывать кнопку создания",
+                "ColumnAlign": "Выравнивание",
+                "ColumnLabel": "Название",
+                "ColumnSort": "Расположение",
+                "ColumnEnabled": "Включено",
+                "ColumnFormat": "Формат",
+                "ColumnReadonly": "Только для чтения",
+                "ShowOnlyOwnEffects": "Скрыть эффекты от Привязанных Предметов",
+                "SuggestExistingEffects": "Предложить эффекты, даже если они уже существуют в актёре или предмете",
+                "StatusCounter": "Вы можете использовать столбец Количество, установив и включив {url} модуль.",
+                "NewActiveEffect": "Новый активный эффект",
+                "FilterByTags": {
+                    "Title": "Фильтер Активных Эффектов по Тегам",
+                    "FieldLabel": "Теги"
+                }
+            },
+            "AdditionalCssClasses": "Дополнительные CSS-классы",
+            "AdvancedConfiguration": "Расширенные настройки",
+            "Alignment": {
+                "AlignCenter": "По центру",
+                "AlignJustify": "По ширине",
+                "AlignLeft": "Слева",
+                "AlignRight": "Справа"
+            },
+            "AllowFormula": "Разрешить формулы",
+            "AllowFormulaCreateTimeOnly": "Только при создании (без автообновлений)",
+            "CheckedByDefault": "Отмечено по умолчанию",
+            "ComponentDialog": {
+                "Delete": {
+                    "Content": "Вы уверены, что хотите удалить этот компонент?",
+                    "Title": "Удаление компонента"
+                },
+                "Edit": {
+                    "Title": "Редактирование компонента"
+                }
+            },
+            "ComponentKey": "Ключ компонента",
+            "ComponentKeyWarning": "Этот ключ зарезервирован в системе формул. Его использование в формулах может вызвать ошибки.",
+            "ComponentType": {
+                "ActiveEffectContainer": "Хранилище эффектов",
+                "Checkbox": "Чекбокс",
+                "ConditionalModifierList": "Условные модификаторы",
+                "Dropdown": "Выпадающий список",
+                "DynamicTable": "Динамическая таблица",
+                "ItemContainer": "Контейнер предметов",
+                "Label": "Метка",
+                "Meter": "Индикатор",
+                "NumberField": "Числовое поле",
+                "Panel": "Панель",
+                "RadioButton": "Радиокнопка",
+                "RichTextArea": "Текстовый редактор",
+                "SectionTitle": "Выбор типа компонента",
+                "Tab": "Вкладка",
+                "TabbedPanel": "Панель с вкладками",
+                "Table": "Таблица",
+                "TextField": "Текстовое поле"
+            },
+            "ConditionalModifierList": {
+                "DisplayInfoIcon": "Показывать иконку информации",
+                "FilterModifierGroup": "Фильтр групп модификаторов",
+                "GroupColumnAlign": "Выравнивание колонки групп",
+                "GroupColumnName": "Название колонки групп",
+                "GroupFilterFormula": "Формула фильтра групп",
+                "GroupFilterFormulaTitle": "Формула должна возвращать названия групп через запятую",
+                "SelectGroup": "Выбор групп (оставьте пустым для всех)",
+                "SelectionColumnAlign": "Выравнивание колонки выбора",
+                "SelectionColumnName": "Название колонки выбора",
+                "SelectionColumnNameDefault": "Выбрано",
+                "GroupColumnNameDefault": "Группа"
+            },
+            "DefaultValue": "Значение по умолчанию",
+            "Dropdown": {
+                "OptionsOrigin": {
+                    "Custom": "Вручную",
+                    "DefaultValueTitle": "Будет выбрано при создании",
+                    "DynamicTable": "Динамическая таблица",
+                    "DynamicTableKey": "Ключ таблицы",
+                    "DynamicTableOptionKey": "Колонка для ключей опций",
+                    "DynamicTableOptionLabel": "Колонка для названий опций",
+                    "ExpectedValueType": "Ожидаемый тип данных: Массив/Матрица",
+                    "Formula": "Формула",
+                    "FormulaForKeyOption": "Формула для ключей",
+                    "FormulaForLabelOption": "Формула для названий",
+                    "IfNotSet": "Если не задано, используются ключи",
+                    "Key": "Ключ",
+                    "Label": "Название",
+                    "Options": "Опции",
+                    "SectionTitle": "Источник опций"
+                }
+            },
+            "DynamicTable": {
+                "AddMultipleRowsDialog": {
+                    "AddMultipleRows": "Добавить несколько строк",
+                    "HowManyRows": "Сколько строк добавить?",
+                    "RowCountError": "Число строк должно быть положительным"
+                },
+                "CanAddRow": "Игроки могут добавлять строки?",
+                "ConfirmDialogOnDelete": "Подтверждение при удалении",
+                "DeleteRowDialog": {
+                    "Content": "Удалить эту строку?",
+                    "Title": "Подтверждение удаления"
+                }
+            },
+            "Errors": {
+                "AlphanumericPatternError": "\"{PROPERTY_NAME}\" должен содержать только буквы и подчёркивания",
+                "DropdownOptionValidationError": "Каждая опция должна иметь ключ",
+                "DynamicTableAutoFilterValidationError": "Необходимо указать значение для {KEY} перед сохранением",
+                "NotGreaterThanZeroError": "\"{PROPERTY_NAME}\" должен быть больше 0",
+                "NotUniqueError": "\"{PROPERTY_NAME}\" должен быть уникальным",
+                "RequiredFieldError": "\"{PROPERTY_NAME}\" обязателен"
+            },
+            "ExtensibleTable": {
+                "Alignment": "Выравнивание",
+                "ColumnName": "Название колонки",
+                "ColumnNameBold": "Жирный шрифт заголовков",
+                "ColumnSort": {
+                    "SortLeft": "Сдвинуть влево",
+                    "SortRight": "Сдвинуть вправо"
+                },
+                "DisplayColumnName": "Показывать названия колонок",
+                "Sort": {
+                    "AddSortingCriteria": "Добавить критерий",
+                    "Auto": "Авто",
+                    "ColumnKey": "Ключ колонки",
+                    "Disabled": "Отключено",
+                    "Manual": "Вручную",
+                    "Operator": "Оператор",
+                    "SortOptions": "Настройки сортировки",
+                    "Title": "Сортировка записей",
+                    "Value": "Значение"
+                },
+                "SortOperator": {
+                    "Ascending": "По возрастанию",
+                    "Descending": "По убыванию",
+                    "Equals": "==",
+                    "NotEquals": "!="
+                }
+            },
+            "InputComponent": {
+                "CustomSizeInvalid": "Размер должен быть целым числом ≥5",
+                "Label": "Метка"
+            },
+            "ItemContainer": {
+                "DeleteItemDialog": {
+                    "Content": "Удалить этот предмет?",
+                    "Title": "Подтверждение удаления"
+                },
+                "FilterItem": "Фильтр предметов",
+                "FilterItemDesc": "Формула фильтра товаров",
+                "HideEmpty": "Скрывать пустые",
+                "ItemRefColAlign": "Выравнивание колонки ссылок",
+                "ItemRefColLabel": "Заголовок колонки ссылок",
+                "SelectTemplate": "Выбор шаблонов",
+                "ShowConfirmationDialogOnItemDelete": "Подтверждение удаления",
+                "ShowItemDeleteButton": "Кнопка удаления предмета",
+                "ShowItemStatus": "Показывать статус (только для GM)",
+                "TableTitle": "Заголовок таблицы",
+                "ItemRefColLabelDefault": "Название"
+            },
+            "Label": {
+                "Actions": {
+                    "AddAltAsMacro": "Добавить альтернативу как макрос",
+                    "AddAsMacro": "Добавить как макрос",
+                    "CopyAltChatCommand": "Копировать альтернативную команду",
+                    "CopyAltMacroScript": "Копировать альтернативный скрипт",
+                    "CopyChatCommand": "Копировать команду чата",
+                    "CopyChatCommandFailure": "Скопируйте команду в чат или макрос",
+                    "CopyChatCommandSuccess": "Команда скопирована!",
+                    "CopyMacroScript": "Копировать скрипт макроса",
+                    "CopyMacroScriptFailure": "Скопируйте скрипт для макроса",
+                    "CopyMacroScriptSuccess": "Скрипт скопирован!"
+                },
+                "AddMacroDialog": {
+                    "MacroName": "Имя макроса:",
+                    "MacroNameError": "Введите имя",
+                    "MacroPageError": "Страница должна быть от 1 до 5",
+                    "MacroSlot": "Слот макроса:",
+                    "MacroSlotError": "Слот должен быть от 0 до 9",
+                    "MacroSlotNumber": "Слот:",
+                    "MacroSlotPage": "Страница:",
+                    "Title": "Добавление макроса"
+                },
+                "AltRollMessage": "Альтернативное сообщение броска",
+                "AltRollMessageDescription": "Срабатывает по Shift+Клик",
+                "FontAwesomeIconDescription": "Вы можете использовать имена иконок Font-Awesome, например, 'dice-d20'. Посетите их веб-сайт, чтобы ознакомиться с их коллекцией иконок",
+                "Icon": "Иконка",
+                "LabelStyle": {
+                    "Boldtext": "Жирный текст",
+                    "Button": "Кнопка",
+                    "Default": "По умолчанию",
+                    "SectionTitle": "Стиль метки",
+                    "Subtitle": "Подзаголовок",
+                    "Title": "Заголовок"
+                },
+                "LabelText": "Текст метки",
+                "Prefix": "Префикс",
+                "RollMessage": "Сообщение броска",
+                "SendAltRollMessageToChat": "Отправлять альтернативный бросок в чат",
+                "SendRollMessageToChat": "Отправлять бросок в чат",
+                "Suffix": "Суффикс",
+                "UseRichTextEditorForAltRollMessage": "Использовать редактор для альтернативы",
+                "UseRichTextEditorForLabel": "Использовать редактор для метки",
+                "UseRichTextEditorForRollMessage": "Использовать редактор для броска"
+            },
+            "Meter": {
+                "HighValue": "Высокое",
+                "LowValue": "Низкое",
+                "Maximum": "Макс",
+                "Minimum": "Мин",
+                "OptimumValue": "Оптимальный",
+                "TextDisplay": {
+                    "None": "Нет",
+                    "SectionTitle": "Отображение текста: ",
+                    "Value": "Значение",
+                    "ValueAndMaximum": "Значение/Максимум",
+                    "ValueAsPercentage": "Процент"
+                },
+                "Value": "Значение"
+            },
+            "MinimumPermission": "Минимальные права для просмотра",
+            "MinimumRole": "Минимальная роль для просмотра",
+            "NumberField": {
+                "AllowDecimal": "Разрешить десятичные",
+                "AllowRelativeModification": "Разрешить относительные изменения",
+                "AllowRelativeModificationDescription": "Например: '+5' добавит 5",
+                "ControlStyle": {
+                    "FullControl": "Полные элементы",
+                    "Hover": "Показывать при наведении",
+                    "SectionTitle": "Стиль управления"
+                },
+                "DisplayStyle": {
+                    "DisplayAsSlider": "Отображать как слайдер",
+                    "DisplayAsTextField": "Отображать как текстовое поле",
+                    "SectionTitle": "Отображение числового поля"
+                },
+                "MaxValue": "Максимальное значение",
+                "MinValue": "Минимальное значение",
+                "ShowFieldControls": "Показывать элементы управления",
+                "ShowFieldControlsDescription": "показывать кнопки '+' и '-' по сторонам"
+            },
+            "Panel": {
+                "Collapsible": {
+                    "No": "Нет",
+                    "SectionTitle": "Сворачиваемая панель?",
+                    "SectionTitleDefault": "Свёрнута по умолчанию?",
+                    "Yes": "Да"
+                },
+                "PanelAlign": {
+                    "SectionTitle": "Выравнивание панели"
+                },
+                "PanelLayout": {
+                    "GridOf10": "Сетка 10 колонок",
+                    "GridOf11": "Сетка 11 колонок",
+                    "GridOf12": "Сетка 12 колонок",
+                    "GridOf2": "Сетка 2 колонки",
+                    "GridOf3": "Сетка 3 колонки",
+                    "GridOf4": "Сетка 4 колонки",
+                    "GridOf5": "Сетка 5 колонок",
+                    "GridOf6": "Сетка 6 колонок",
+                    "GridOf7": "Сетка 7 колонок",
+                    "GridOf8": "Сетка 8 колонок",
+                    "GridOf9": "Сетка 9 колонок",
+                    "Horizontal": "Горизонтально",
+                    "SectionTitle": "Расположение панели",
+                    "Vertical": "Вертикально"
+                },
+                "PanelTitle": "Заголовок панели",
+                "PanelTitleStyle": "Стиль заголовка"
+            },
+            "RadioButton": {
+                "Group": "Группа",
+                "GroupDescription": "Будет использовано как ключ в формулах",
+                "Value": "Значение"
+            },
+            "Size": {
+                "Auto": "Авто",
+                "Custom": "Свой размер",
+                "CustomSizeTitle": "Пользовательский размер",
+                "Gigantic": "Громадный",
+                "Large": "Большой",
+                "Larger": "Огромный",
+                "Medium": "Средний",
+                "SectionTitle": "Размер",
+                "Small": "Маленький",
+                "Smaller": "Небольшой",
+                "Tiny": "Крошечный"
+            },
+            "Tab": {
+                "Dialog": {
+                    "MissingData": "Название и Ключ не должны быть пустыми",
+                    "TitleCreate": "Новая вкладка",
+                    "TitleEdit": "Редактирование вкладки {TAB_KEY}"
+                },
+                "EnterNameAndKey": "Введите название и ключ вкладки",
+                "MinimumPermission": "Минимальные права для просмотра",
+                "MinimumRole": "Минимальная роль для просмотра",
+                "NameAndKeyDescription": "Имя может быть любоым, но ключ должен быть уникальным и буквенно-цифровой среди вкладок",
+                "TabKey": "Ключ вкладки",
+                "TabName": "Название вкладки",
+                "TabTooltip": "Подсказка вкладки (показывается когда наводишься на вкладку)",
+                "VisibiltyFormulaDescription": "Формула видимости без ${}$. Эта вкладка будет показываться если формула \"истинна\"."
+            },
+            "TabbedPanel": {
+                "AddTab": "Добавить вкладку",
+                "DeleteTab": "Удалить текущую вкладку",
+                "EditTab": "Редактировать текущую вкладку",
+                "SortTabToLeft": "Сдвинуть влево",
+                "SortTabToRight": "Сдвинуть вправо"
+            },
+            "Table": {
+                "ColCount": "Количество колонок",
+                "RowCount": "Количество строк",
+                "TableLayout": "Макет таблицы",
+                "TableLayoutDescription": "Вы можете указать для каждого столбца, должен ли он быть выровнен по левому краю (l), по правому краю (r) или по центру (c). Пример для таблицы из 4 столбцов: 'cllr'"
+            },
+            "TextArea": {
+                "Dialog": {
+                    "Title": "Текстовый редактор"
+                },
+                "Style": {
+                    "DialogEditor": "Диалоговый редактор",
+                    "IconOnly": "Только иконка",
+                    "InSheetEditor": "Редактор листа",
+                    "SectionTitle": "Стиль"
+                }
+            },
+            "TextField": {
+                "AllowedCharacterList": "Разрешённые символы",
+                "AutoComplete": "Автозаполнение формулой",
+                "AutoCompleteDescription": "Это поле должно содержать значения автозаполнения, разделенные запятыми (,). Оно может содержать формулы.",
+                "MaxLength": "Максимальная длина"
+            },
+            "Tooltip": "Подсказка компонента",
+            "VisibiltyFormula": "Формула видимости",
+            "VisibiltyFormulaDescription": "Компонент видим, если формула истинна",
+            "WithoutDelimiters": "Без разделителей ${}$"
+        },
+        "Display": {
+            "DefaultHeight": "Высота листа персонажа по умолчанию",
+            "DefaultWidth": "Ширина листа персонажа по умолчанию",
+            "EditDialog": {
+                "DefaultValues": "Значения по умолчанию",
+                "Title": "Настройки отображения"
+            },
+            "PreventSheetResizing": "Запретить изменение размера листа персонажа",
+            "ProfilPictureHeight": "Высота аватарки",
+            "ProfilPictureWidth": "Ширина аватарки"
+        },
+        "Export": {
+            "ExportButton": "Экспорт шаблонов JSON",
+            "ImportButton": "Импорт шаблонов JSON",
+            "ExportDialog": {
+                "Title": "Выбор шаблонов",
+                "Subtitle": "Выберите шаблоны для экспорта:",
+                "Action": "Экспорт"
+            },
+            "ImportDialog": {
+                "Title": "Импорт завершён",
+                "Content": "Импорт завершён. Окно будет перезагружено."
+            }
+        },
+        "Formula": {
+            "Default": "По умолчанию",
+            "ERROR": "ОШИБКА",
+            "Is": "Равно",
+            "NewValue": "Новое значение",
+            "Operator": "Оператор",
+            "PREFIXERROR": "ОШИБКА ПРЕФИКСА",
+            "Property": "Свойство",
+            "ReplaceWith": "Заменить на",
+            "Search": "Поиск",
+            "SUFFIXERROR": "ОШИБКА СУФФИКСА",
+            "Target": "Цель",
+            "Where": "Где"
+        },
+        "Items": {
+            "EmbeddedItemsFolderDescription": "В этой папке содержатся все элементы, встроенные в элементы игрового уровня (элементы, не встроенные в актера)"
+        },
+        "Modifier": {
+            "Description": "Описание",
+            "EditDialog": {
+                "MissingData": "Требуются Ключ и Формула для каждого модификатор",
+                "ModifierCount": "{COUNT} модификаторов",
+                "Title": "Настройка модификаторов",
+                "DeprecationWarning": "Начиная с версии 4.5.0, модификаторы эффектов предметов и состояний устарели в пользу активных эффектов и будут удалены в версии 6.0.0, при выходе Foundry 14."
+            },
+            "Formula": "Формула значения",
+            "Group": "Группа",
+            "ItemModifiers": "Модификаторы предметов",
+            "Key": "Ключ",
+            "Operator": "Оператор",
+            "Priority": "Приоритет",
+            "TemplateModifiers": "Шаблонные модификаторы",
+            "ConversionDialog": {
+                "Text": "<p>Начиная с версии 4.5.0, модификаторы эффектов предметов и состояний устарели в пользу активных эффектов и будут удалены в версии 6.0.0, при выходе Foundry 14.</p><p>Хотите ли вы автоматически конвертировать Модификаторы в Активные Эффекты?</p><p><b>Внимание, пожалуйста, сделайте резервную копию своих данных перед продолжением конвертации.</b></p>",
+                "Checkbox": "Больше не показывать это всплывающее окно (в настройках Системы вы можете вновь вернуть это всплывающее окно)",
+                "OpenStatusConfiguration": "Модификаторы Статусных Эффектов были преобразованы в Активные Эффекты. Пожалуйста, проверьте настройки эффектов статуса, чтобы правильно привязать Активные Эффекты к Статусам"
+            },
+            "PassiveModifier": "пассивный",
+            "ActiveModifier": "активный",
+            "DefaultModifierGroupName": "Модификаторы"
+        },
+        "ProgressBar": {
+            "ReloadingTemplates": "CSB: Загруженно {NAME} ({UUID}); {CURRENT} / {MAX}",
+            "ReloadingTemplatesFinished": "CSB: Перезагрузка шаблонов документов завершена; перезагружено {MAX} документов"
+        },
+        "ReloadTemplates": {
+            "SelectReloadPlacesItems": "Выберите, в каких местах вы хотите перезагрузить свои Предметы",
+            "SelectReloadPlacesActors": "Выберите, в каких местах вы хотите перезагрузить своих Актеров",
+            "GameDirectory": "Директория Игры",
+            "ActorsInGameDirectory": "Актеры в Директории Игры",
+            "Scenes": "Сцены (Токены)"
+        },
+        "Settings": {
+            "InitiativeFormula": {
+                "Name": "Формула инициативы",
+                "Hint": "Формула без '${}$'"
+            },
+            "CustomStyle": {
+                "Name": "CSS-стили",
+                "Hint": "Вы можете указать пользовательский файл стиля. Если вы хотите стиль по умолчанию, оставьте поле пустым. ВНИМАНИЕ: Foundry не позволяет загружать файлы CSS. Пожалуйста, загрузите его вручную на сервер, прежде чем выбирать его здесь."
+            },
+            "ExpandRollVisibility": {
+                "Name": "Распространить Приватность бросков для всего чата",
+                "Hint": "Если отмечено, то приватность бросков будет влиять на сообщения, отправленные с листов персонажей. Это работает с использованием шепота."
+            },
+            "RollIcons": {
+                "Name": "Иконки бросков",
+                "Hint": "Вы можете указать имя значка fontawesome, чтобы добавить значок рядом с кликабельными метками на листе. Пример: dice-d20 для отображения значка d20. Если оставить пустым, значок отображаться не будет."
+            },
+            "ShowHiddenRolls": {
+                "Name": "Показывать скрытые броски",
+                "Hint": "Эта настройка покажет скрытые броски ГМу для проверки."
+            },
+            "LoggingLevel": {
+                "Name": "Уровень логирования",
+                "Hint": "Будет регистрировать все, что ниже установленного уровня. В больших системах установка этого параметра на отладку может замедлить интерфейс.",
+                "Levels": {
+                    "None": "Нет ведения журнала",
+                    "Error": "Вести только ошибки",
+                    "Warn": "Вести предупреждения и выше",
+                    "Info": "Вести информация и выше",
+                    "Log": "Вести Все, кроме отладки",
+                    "Debug": "Полное логирование"
+                }
+            },
+            "MinimumRoleEditModifiers": {
+                "Name": "Минимальная роль для редактирования модификаторов предметов",
+                "Hint": "Минимальная роль для видимости и редактировать модификаторов предметов"
+            },
+            "MinimumRoleTemplateReload": {
+                "Name": "Минимальная роль для перезагрузки листа персонажа",
+                "Hint": "Минимальная роль необходимая чтобы выбрать шаблон и загрузить лист персонажа."
+            },
+            "ManualEntitySaving": {
+                "Name": "Ручное сохранение \"сущностей\"",
+                "Hint": "На больших листах вы можете отключить автоматическое сохранение сущностей, если перезагрузка листа занимает слишком много времени. Это добавит кнопку сохранения на листы, чтобы вручную сохранить их. Листы персонажей будут автоматически сохраняться при добавлении, удалении или сохранении связанного элемента или при его закрытии."
+            },
+            "CustomActiveEffects": {
+                "Name": "Настроить Активные Эффекты",
+                "Hint": "Настройте предопределенные Активные Эффекты, которые будут предложены в сущностях (актёры, предметы)"
+            },
+            "CustomStatusEffects": {
+                "Name": "Настроить Статусные Эффекты",
+                "Hint": "Настроить значки эффектов статуса, доступных на токенах, а также их поведение.",
+                "Id": "Id",
+                "Icon": "Изображение",
+                "LinkedActiveEffect": "Привязанный Активный Эффект",
+                "EffectName": "Имя",
+                "StatusEffectInvalid": "Каждый эффект статуса должен иметь ID, Имя и Изображение.",
+                "ResetDialog": {
+                    "Title": "Сбросить настройки Статусных Эффектов?",
+                    "Content": "Вы действительно хотите сбросить конфигурацию Статусных Эффектов до состояния по умолчанию?"
+                },
+                "SpecialStatusEffectInvalid": "Особый статусный эффект {effect} недействителен. Либо не был настроен статусный эффект, либо настроенный статусный эффект не существует.",
+                "SpecialStatusEffects": {
+                    "Title": "Особый статусный эффект",
+                    "Caption": "Эти эффекты используются в разных местах FoundryVTT. Пожалуйста, убедитесь, что все они сопоставлены со статусными эффектами.",
+                    "BLIND": "СЛЕПОТА",
+                    "BURROW": "ЗАКОПАННЫЙ",
+                    "DEFEATED": "ПОБЕЖДЁННЫЙ",
+                    "FLY": "ПОЛЁТ",
+                    "HOVER": "ПАРЕНИЕ",
+                    "INVISIBLE": "НЕВИДИМОСТЬ"
+                }
+            },
+            "DocumentationButton": "Посмотреть системную документацию",
+            "Show451ConversionPopUp": {
+                "Name": "Показать всплывающее окно конвертации Модификаторов в Активные Статусные Эффекты"
+            }
+        },
+        "Sheets": {
+            "ConfigureItemModifier": "Настроить модификаторы предметов",
+            "InvalidSheet": "Неверный лист",
+            "MakeItemUnique": "Сделать предмет уникальным",
+            "OpenTemplateSheet": "Открыть лист шаблона",
+            "ReloadTemplate": "Перезагрузить шаблон",
+            "SeeAttributeBars": "Показать индикаторы",
+            "SeeHiddenAttributes": "Показать скрытые атрибуты",
+            "Template": "Шаблон"
+        },
+        "TemplateActions": {
+            "AddNewElement": "Добавить новый элемент",
+            "ConfigureStatusEffects": "Настроить эффекты статуса",
+            "ConfigureAttributeBars": "Настроить индикаторы атрибута",
+            "ConfigureHiddenAttributes": "Настроить скрытые атрибуты",
+            "ConfigureSheetDisplay": "Настроить отображение листа персонажа",
+            "Redo": "Повторить",
+            "ReloadCharacterSheets": "Перезагрузить все листы персонажей",
+            "ReloadItemSheet": "Перезагрузить все листы предметов",
+            "ReloadSheetsDialog": {
+                "Contents": "Вы действительно хотите перезагрузить все листы, связанные с этим шаблоном?",
+                "Title": "Перезагрузить все связанные листы?"
+            },
+            "Undo": "Отменить"
+        },
+        "UserInput": {
+            "Value": "Значение",
+            "Variable": "Переменная"
+        },
+        "UserMessages": {
+            "Dropdown": {
+                "OptionsLengthError": "{COMPONENT_KEY}: Количество ключей и меток не совпадает по длинне."
+            },
+            "CannotMoveItemInItself": "Нельзя поместить предмет внутрь себя",
+            "EmbeddedItemsFolderNotFound": "Папка Embedded items не найдена. Создайте папку Item с именем {EMBEDDED_ITEMS_FOLDER_NAME}",
+            "ItemMaxDepth": "Предметы не могут быть вложены глубже {depth} уровней.",
+            "ItemTemplateDeleted": "Шаблон предмета был удалён для {ITEM_NAME} - {ITEM_UUID}, используемого в {ENTITY_NAME} - {ENTITY_UUID}",
+            "Label": {
+                "ChatCommandeCreationError": "Не удалось создать команду чата."
+            },
+            "NumberField": {
+                "ValueNotInteger": "Значение должно быть целым числом",
+                "ValueNotNumeric": "Значение должно быть числовым",
+                "ValueNotTooHigh": "Значение должно быть меньше {VALUE}",
+                "ValueNotTooLow": "Значение должно быть больше {VALUE}"
+            },
+            "TabbedPanel": {
+                "DuplicateTabKeEdit": "Не удалось изменить вкладку с дублирующимся ключом: {KEY}",
+                "DuplicateTabKey": "Не удалось создать вкладку с дублирующимся ключом: {KEY}"
+            },
+            "TextField": {
+                "WrongValue": "Значение содержит недопустимые символы"
+            },
+            "UserInputTemplateNotFound": "Шаблон пользовательского ввода {TEMPLATE_NAME} не найден.",
+            "WrongDragOnTemplate": "На шаблоны можно перетаскивать только элементы подшаблонов"
+        }
+    },
+    "TYPES": {
+        "Actor": {
+            "_template": "Шаблон",
+            "character": "Персонаж"
+        },
+        "Item": {
+            "_equippableItemTemplate": "Шаблон экипируемого предмета",
+            "equippableItem": "Экипируемый предмет",
+            "subTemplate": "Подшаблон",
+            "userInputTemplate": "Шаблон пользовательского ввода"
+        }
+    }
+}

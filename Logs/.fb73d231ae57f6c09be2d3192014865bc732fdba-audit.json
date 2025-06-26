@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "D:\\Games\\Foundry_12_331\\Source\\Logs\\.fb73d231ae57f6c09be2d3192014865bc732fdba-audit.json",
+    "files": [
+        {
+            "date": 1750581782442,
+            "name": "D:\\Games\\Foundry_12_331\\Source\\Logs\\debug.2025-06-22.log",
+            "hash": "7f564ce59a78bd2871153be604f35acd324c014a4b26fa6c175add4367edf418"
+        },
+        {
+            "date": 1750663131076,
+            "name": "D:\\Games\\Foundry_12_331\\Source\\Logs\\debug.2025-06-23.log",
+            "hash": "543b9d67b77e22439c9256fbc938d0c5370692f7957a8d4f900343d3508c9ec9"
+        },
+        {
+            "date": 1750802937585,
+            "name": "D:\\Games\\Foundry_12_331\\Source\\Logs\\debug.2025-06-24.log",
+            "hash": "89b5a5c4e19891363435768b76d71b3b192c2e4edfa2c1488801efff0cba4c55"
+        },
+        {
+            "date": 1750837321257,
+            "name": "D:\\Games\\Foundry_12_331\\Source\\Logs\\debug.2025-06-25.log",
+            "hash": "ba8c5b453da7ac4e07383edd41df7c872fe6a53be6ff9fb2da340bac612d1f7f"
+        },
+        {
+            "date": 1750922872847,
+            "name": "D:\\Games\\Foundry_12_331\\Source\\Logs\\debug.2025-06-26.log",
+            "hash": "e7620acf019982ab24b7526027d2d919f98ddd6c605fb54b06ef4c3ceb9c7728"
+        }
+    ],
+    "hashType": "sha256"
+}

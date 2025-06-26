@@ -1,0 +1,14 @@
+{
+  "title": "CoR",
+  "id": "cor",
+  "system": "custom-system-builder",
+  "joinTheme": "default",
+  "coreVersion": "12.331",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "systemVersion": "4.6.3",
+  "lastPlayed": "Wed Jun 25 2025 23:25:29 GMT-0700 (Pacific Daylight Time)",
+  "playtime": 147846
+}

@@ -1,0 +1,28 @@
+<form id="ccss-container" autocomplete="off" class="customCssSettings" onsubmit="event.preventDefault()" onload="onload()">
+    {{#if isGM}}
+        <h2>{{localize "Global Styles"}}</h2>
+        <p class="notes">{{localize "These styles apply to all users"}}</p>
+        
+        <section class="stylesheet-editor" id="ccss-top">
+            <textarea name="stylesheet" class="stylesheet">
+            {{~" "}}{{{stylesheet}}}{{" "~}}
+            </textarea>
+        </section>
+    
+    {{/if}}
+        <h2>{{localize "User Styles"}}</h2> 
+        <div id="ccss-sep"></div>
+        <p class="notes">{{localize "These styles apply only to you"}}</p> 
+    
+        <section class="stylesheet-editor" id="ccss-bottom">
+            <textarea name="userStylesheet" class="userStylesheet">
+            {{~" "}}{{{userStylesheet}}}{{" "~}}
+            </textarea>
+        </section>
+    
+    
+        <button type="submit" name="submit">
+            <i class="fas fa-save"></i> Save
+        </button>
+    </form>
+    

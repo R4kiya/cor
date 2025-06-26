@@ -1,0 +1,52 @@
+{
+  "timestamp": 1750919127561,
+  "os": {
+    "platform": "win32",
+    "version": "10.0.26100",
+    "node": "20.9.0",
+    "electron": "29.4.0"
+  },
+  "foundry": {
+    "generation": 12,
+    "build": 331,
+    "channel": "stable",
+    "hosting": null
+  },
+  "modules": {
+    "_chatcommands": {
+      "version": "2.0.4"
+    },
+    "custom-css": {
+      "version": "2.3.1"
+    },
+    "dfreds-convenient-effects": {
+      "version": "7.4.2"
+    },
+    "socketlib": {
+      "version": "v1.1.3"
+    },
+    "lib-dfreds-ui-extender": {
+      "version": "1.0.1"
+    },
+    "statuscounter": {
+      "version": "3.0.2"
+    },
+    "lib-wrapper": {
+      "version": "1.13.3.0"
+    },
+    "custom-system-builder-example": {
+      "version": "4.3.0.0"
+    }
+  },
+  "systems": {
+    "custom-system-builder": {
+      "version": "4.6.3",
+      "playtime": 147846
+    }
+  },
+  "worlds": {},
+  "playtime": {
+    "total": 147846,
+    "max": 147846
+  }
+}

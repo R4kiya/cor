@@ -1,0 +1,18 @@
+<form autocomplete="off">
+    {{#each statuses}}
+    <div class="form-group">
+        <label>
+            {{this.label}}
+            <input type="checkbox" name="{{this.statusId}}" checked />
+        </label>
+    </div>
+    {{else}}
+    <p>{{localize "statuscounter.counterDefaults.none"}}</p>
+    {{/each}}
+
+    <footer>
+        <button type="submit" name="submit">
+            <i class="fas fa-rotate-left"></i> {{localize "statuscounter.counterDefaults.reset"}}
+        </button>
+    </footer>
+</form>

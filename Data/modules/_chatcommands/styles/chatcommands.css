@@ -1,0 +1,183 @@
+#chat-form {
+    position: relative;
+}
+
+#autocomplete-suggestion {
+    position: absolute;
+    bottom: 8px; /* Gap of parent chat-form */
+    left: 4px; /* Padding of parent chat-form */
+    z-index: 1;
+    opacity: 0.5;
+    box-shadow: none;
+    outline: none;
+    pointer-events: none;
+    background: transparent;
+    padding: var(--chat-message-spacing);
+    width: calc(100% - 8px);
+    height: var(--chat-input-height);
+    border: 2px solid transparent;
+    font-family: var(--font-body);
+}
+
+#chat-notifications #autocomplete-suggestion {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    margin: 0 0 2px;
+    opacity: 0;
+    transition: opacity var(--ui-fade-duration) step-start;
+}
+#chat-notifications #chat-message:focus ~ #autocomplete-suggestion {
+    opacity: 0.5;
+    transition-timing-function: step-end;
+}
+
+/* Keep message input expanded and suggestion visible when menu is focused. */
+#chat-notifications #autocomplete-menu:focus-within ~ #chat-message {
+    --ui-fade-delay: 0;
+    height: var(--chat-input-height);
+    opacity: 1;
+}
+#chat-notifications #autocomplete-menu:focus-within ~ #autocomplete-suggestion {
+    opacity: 0.5;
+}
+
+#autocomplete-menu {
+    flex: 0;
+    position: relative;
+    pointer-events: all;
+}
+.chat-form #autocomplete-menu {
+    margin-bottom: -8px;
+}
+
+#autocomplete-menu #context-menu {
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+}
+#autocomplete-menu #context-menu ol {
+    max-height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: calc(100% + 7px);
+    padding-right: 7px;
+    scrollbar-color: #782e22 var(--color-border-dark-3);
+}
+#autocomplete-menu ol::-webkit-scrollbar {
+    background: var(--color-border-dark-3);
+}
+
+#autocomplete-menu li.context-item:focus {
+    outline: none;
+    outline: 1px solid var(--color-border-highlight-alt);
+    box-shadow: 0 0 10px inset var(--color-shadow-highlight);
+}
+#autocomplete-menu li.context-item.info:hover {
+    text-shadow: none;
+    color: revert;
+}
+
+#autocomplete-menu ol>li.context-item {
+    padding: 6px 4px 7px 4px;
+    margin: 1px;
+    line-height: normal;
+    overflow: hidden;
+}
+#autocomplete-menu li.context-item.command {
+    padding-left: 11px;
+    text-indent: -6px;
+    font-size: small;
+}
+#autocomplete-menu li.context-item.command > * {
+    text-indent: 0px;
+}
+#autocomplete-menu li.context-item.separator > hr {
+    margin: 0;
+}
+
+#autocomplete-menu .command-title {
+    font-size: larger;
+}
+#autocomplete-menu .command-title > img {
+    max-height: 20px;
+    vertical-align: text-top;
+    margin-right: 3px;
+    border: none;
+}
+#autocomplete-menu .command-title > i {
+    margin-right: 3px;
+}
+
+#autocomplete-menu .command-footer {
+    margin-top: 3px;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+#autocomplete-menu .command-footer .notes {
+    margin: 0;
+    flex: 0 1 auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#autocomplete-menu li.context-item:hover .notes {
+    text-shadow: none;
+}
+#autocomplete-menu li .notes {
+    color: var(--color-text-light-7);
+    font-size: var(--font-size-12);
+    line-height: var(--line-height-16);
+}
+#autocomplete-menu li p.notes {
+    text-align: center;
+    margin: 3px 0;
+}
+#autocomplete-menu span.parameter {
+    background: var(--color-border-dark-4);
+    padding: 1px 2px;
+    margin: 0 2px;
+    border-radius: 2px;
+}
+
+@keyframes spinner {
+    0% {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+    100% {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+#autocomplete-menu li.loading {
+    position: relative;
+    height: 32px;
+}
+#autocomplete-menu li.loading::before,
+#chatcommand-loading::before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 50%;
+    bottom: 0;
+    border: solid 5px var(--color-border-light-2);
+    border-bottom-color: var(--color-border-light-1);
+    border-radius: 50%;
+    animation: 1.5s linear infinite spinner;
+}
+#chatcommand-loading::before {
+    bottom: 42px; /* (100px height / 2) - 16px self + 8px gap */
+}
+#chatcommand-loading[data-active="0"]::before {
+    display: none;
+}
+#chat-notifications #chatcommand-loading::before {
+    bottom: 16px;
+    transition: bottom var(--ui-fade-duration) ease;
+}
+#chat-notifications #chat-message:focus ~ #chatcommand-loading::before {
+    bottom: calc(var(--chat-input-height) / 2 - 14px);
+}

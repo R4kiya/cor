@@ -1,0 +1,21 @@
+<div class="custom-system-reload-templates" style="margin-bottom: 10px">
+    {{#if (eq documentType 'item')}}
+        <p>{{localize 'CSB.ReloadTemplates.SelectReloadPlacesItems'}}</p>
+    {{else}}
+        <p>{{localize 'CSB.ReloadTemplates.SelectReloadPlacesActors'}}</p>
+    {{/if}}
+    <br/>
+    <label for="gameDirectory">{{localize 'CSB.ReloadTemplates.GameDirectory'}}</label>
+    <input type="checkbox" id="gameDirectory" checked disabled style="margin-bottom: 10px">
+    <br/>
+
+    {{#if (eq documentType 'item')}}
+        <label for="actorsInGameDirectory">{{localize 'CSB.ReloadTemplates.ActorsInGameDirectory'}}</label>
+        <input type="checkbox" id="actorsInGameDirectory" style="margin-bottom: 10px">
+        <br/>
+    {{/if}}
+
+    <label for="tokensInScenes">{{localize 'CSB.ReloadTemplates.Scenes'}}</label>
+    <select id="tokensInScenes" style="margin-bottom: 10px">{{selectOptions SCENE_SELECTION_OPTIONS selected='none'}}</select>
+    <br/>
+</div>
