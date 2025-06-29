@@ -25,7 +25,7 @@ class CustomActiveEffect extends ActiveEffect {
         //@ts-expect-error Outdated types
         return this.system.tags ?? [];
     }
-    apply(actor, change) {
+    apply(actor, change, shouldThrow = false) {
         if (!CustomActiveEffect.APPLICABLE_DOCUMENT_TYPES.includes(this.parent.type)) {
             return;
         }
@@ -42,8 +42,10 @@ class CustomActiveEffect extends ActiveEffect {
             let changes = {};
             for (const key of changeKeys) {
                 change.key = key;
+                let refInTarget = false;
                 if (change.key.startsWith('target.')) {
                     change.key = change.key.substring(7);
+                    refInTarget = true;
                 }
                 if (change.key.startsWith('props')) {
                     change.key = `system.${change.key}`;
@@ -59,11 +61,11 @@ class CustomActiveEffect extends ActiveEffect {
                     const sanitizedKey = change.key.substring(13);
                     if (sanitizedKey.includes('.')) {
                         const splitKey = sanitizedKey.split('.');
-                        reference = `${splitKey[0]}.${splitKey[1]}`;
+                        reference = `${refInTarget ? 'target.' : ''}${splitKey[0]}.${splitKey[1]}`;
                     }
                 }
                 change.value = ComputablePhrase.computeMessageStatic(change.value, props, {
-                    source: `activeEffect.${change.key}.value`,
+                    source: `activeEffect.${this.name}.value`,
                     triggerEntity: this.parent.templateSystem,
                     reference
                 }).result;
@@ -72,6 +74,9 @@ class CustomActiveEffect extends ActiveEffect {
             return changes;
         }
         catch (err) {
+            if (shouldThrow) {
+                throw err;
+            }
             Logger.error(`Error when computing active effet value ${this.name} - ${change.key} for entity ${actor.name}`, err, { keys: changeKeys });
             return {};
         }
@@ -82,7 +87,7 @@ class CustomActiveEffect extends ActiveEffect {
     static async _fromStatusEffect(statusId, effectData, options) {
         const statusEffect = CONFIG.statusEffects.find((e) => e.id === statusId);
         if (statusEffect && statusEffect.linkedEffectId) {
-            const activeEffect = await this.getPredefinedEffect(statusEffect.linkedEffectId);
+            const activeEffect = this.getPredefinedEffect(statusEffect.linkedEffectId);
             if (activeEffect) {
                 return activeEffect;
             }
@@ -167,12 +172,40 @@ class CustomActiveEffect extends ActiveEffect {
             const existingEffect = predefinedEffects.get(effectId);
             if (existingEffect) {
                 entity.createEmbeddedDocuments('ActiveEffect', [existingEffect.toJSON()]);
+                return existingEffect;
             }
         }
         else {
             const convenientEffectsApiSource = game.modules.get('dfreds-convenient-effects').api ??
                 game.dfreds.effectInterface;
             convenientEffectsApiSource.addEffect({ effectId: String(effectId), uuid: entity.uuid });
+        }
+    }
+    /**
+     * Removes a predefined Active Effect from an entity
+     * @param entity The entity to add the effect to
+     * @param effectId The predefined effect ID to add
+     */
+    static removeActiveEffects(entity, effects) {
+        if (!isModuleActive('dfreds-convenient-effects')) {
+            entity.deleteEmbeddedDocuments('ActiveEffect', effects.map((effect) => effect.id));
+        }
+        else {
+            const convenientEffectsApiSource = game.modules.get('dfreds-convenient-effects').api ??
+                game.dfreds.effectInterface;
+            const toRemoveNormally = [];
+            for (const effect of effects) {
+                if (effect.getFlag('dfreds-convenient-effects', 'isConvenient')) {
+                    convenientEffectsApiSource.removeEffect({
+                        effectId: effect.getFlag('dfreds-convenient-effects', 'ceEffectId'),
+                        uuid: entity.uuid
+                    });
+                }
+                else {
+                    toRemoveNormally.push(effect.id);
+                }
+            }
+            entity.deleteEmbeddedDocuments('ActiveEffect', toRemoveNormally);
         }
     }
 }
@@ -252,6 +285,7 @@ Hooks.on('preCreateActiveEffect', (effect) => {
     if (effect.parent.type === 'activeEffectContainer') {
         sourceUpdates = {
             ...sourceUpdates,
+            [`flags.${game.system.id}.isPredefined`]: true,
             'flags.dfreds-convenient-effects.ceEffectId': effect.name?.slugify(),
             'flags.dfreds-convenient-effects.isConvenient': true,
             'flags.dfreds-convenient-effects.isViewable': true,

@@ -1,0 +1,25 @@
+{
+  "title": "CoR",
+  "id": "world.cor.2025-06-27.1751074805769",
+  "system": "custom-system-builder",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [],
+    "systems": [],
+    "recommends": [],
+    "conflicts": [],
+    "flags": {}
+  },
+  "description": "",
+  "version": "0",
+  "size": 504710,
+  "note": "463",
+  "snapshotId": null,
+  "originalSize": 5866464,
+  "createdAt": 1751074805773,
+  "packageId": "cor",
+  "type": "world"
+}

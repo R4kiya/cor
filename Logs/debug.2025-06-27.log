@@ -1,0 +1,452 @@
+{"level":"info","message":"Deleted Item with id [NAg3lesB5QDRay1c] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:07:33"}
+{"level":"info","message":"Deleted Item with id [0s8PBe2nmO9MRP7h] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:08:35"}
+{"level":"info","message":"Deleted Item with id [FIFZENbCaoo8pIWE] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:08:35"}
+{"level":"info","message":"Created Item with id [gCvfoGEPTQ2Q4pCT]","timestamp":"2025-06-27 00:10:42"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [Kg5fnq7paFQEyoi1,ZeGaBNvIFuNG52f9] in parent Item [gCvfoGEPTQ2Q4pCT]","timestamp":"2025-06-27 00:10:50"}
+{"level":"info","message":"Created Item with id [Jbnc1oerjfAY5oAU] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:15:37"}
+{"level":"info","message":"Created Item with id [uIc5k7SlUR0RH4wB] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:15:40"}
+{"level":"info","message":"Created Item with id [b9Y5C4d7uOoB3M1y] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:29:23"}
+{"level":"info","message":"Deleted Item with id [b9Y5C4d7uOoB3M1y] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:30:52"}
+{"level":"info","message":"Deleted Item with id [uIc5k7SlUR0RH4wB] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:30:53"}
+{"level":"info","message":"Deleted Item with id [Jbnc1oerjfAY5oAU] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:30:53"}
+{"level":"info","message":"Deleted Item with id [fNJ02iJazF7iCjgs] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:30:54"}
+{"level":"info","message":"Deleted Item with id [y7Yqjgl6MudblQaK] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:30:55"}
+{"level":"info","message":"Deleted Item with id [hbyiyCcrroqxHGRi] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:30:56"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-06-27 00:35:26"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-06-27 00:35:26"}
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-06-27 00:35:32"}
+{"level":"info","message":"Created client session b10f38fe04c690e90c7d5e21","timestamp":"2025-06-27 00:35:34"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-06-27 00:35:34"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-06-27 00:35:36"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-06-27 00:35:36"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"b10f38fe04c690e90c7d5e21","timestamp":"2025-06-27 00:35:38"}
+{"level":"info","message":"Custom System Builder update 4.6.4 is now available!","timestamp":"2025-06-27 00:35:40"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 708ms","timestamp":"2025-06-27 00:35:40"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-06-27 00:35:41"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-06-27 00:35:47"}
+{"level":"info","message":"Created Item with id [c3sJi9LN7GNvnHQ8] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:41:01"}
+{"level":"info","message":"Created Item with id [7PVVQkFnQojQtOVz] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:41:26"}
+{"level":"info","message":"Created Item with id [2o75UyGWXALjr3w7] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:41:34"}
+{"level":"info","message":"Deleted Item with id [2o75UyGWXALjr3w7] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:44:18"}
+{"level":"info","message":"Deleted Item with id [7PVVQkFnQojQtOVz] in parent Actor [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:44:19"}
+{"level":"info","message":"Deleted Actor with id [Y7aAZR7pypm3jFBJ]","timestamp":"2025-06-27 00:44:37"}
+{"level":"info","message":"Created Actor with id [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 00:44:48"}
+{"level":"info","message":"Created Item with id [KWEgqgD25V4x0pD5] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 00:45:50"}
+{"level":"info","message":"Deleted Item with id [1swnXtH8ypFKisk6]","timestamp":"2025-06-27 00:46:23"}
+{"level":"info","message":"Deleted Item with id [gCvfoGEPTQ2Q4pCT]","timestamp":"2025-06-27 00:46:26"}
+{"level":"info","message":"Created Item with id [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 00:46:41"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [4yyGKQLi83sjEH52,owqfdj2Sl5N7SAxz] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 00:46:45"}
+{"level":"info","message":"Created Item with id [WGGt6QSMgS9lJ35P]","timestamp":"2025-06-27 00:49:40"}
+{"level":"info","message":"Deleted ActiveEffect with id [IJNrh0EhjBfg1Urq] in parent Item [oTA5HM5AaDdbFUsz]","timestamp":"2025-06-27 00:50:10"}
+{"level":"info","message":"Deleted ActiveEffect with id [ixuopuPKZtmh8SyR] in parent Item [oTA5HM5AaDdbFUsz]","timestamp":"2025-06-27 00:50:11"}
+{"level":"info","message":"Deleted 2 ActiveEffect documents with ids: [4yyGKQLi83sjEH52,owqfdj2Sl5N7SAxz] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 00:50:15"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [QFsII7FDr2tcJtEI,MU9wWDS16k7zsHyT] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 00:52:37"}
+{"level":"info","message":"Deleted Item with id [oTA5HM5AaDdbFUsz]","timestamp":"2025-06-27 00:52:57"}
+{"level":"info","message":"Created Folder with id [OZxtcgw4AFWIkAYM]","timestamp":"2025-06-27 00:54:48"}
+{"level":"info","message":"Created Item with id [e0pDSGRzPiByHOpH]","timestamp":"2025-06-27 01:02:33"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [gCunWtUyGcbLsY8i,HiVs8S4QcKSgGUQO] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 01:02:51"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [YO5ctfkD02yzqppq,NxIHgObD9xrkf8MR] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 01:02:54"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [YcjVuYWnntjOAbVh,vhSzLRx40A0ShJDg] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 01:02:55"}
+{"level":"info","message":"Deleted Item with id [WGGt6QSMgS9lJ35P]","timestamp":"2025-06-27 01:03:10"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [8Msoa9Wfl09QNhoG,nLxaV3nNo5eHzFwr] in parent Item [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 01:03:16"}
+{"level":"info","message":"Deleted Item with id [P7eWtQ1GTN1zrNPd]","timestamp":"2025-06-27 01:03:40"}
+{"level":"info","message":"Created Item with id [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 01:03:57"}
+{"level":"info","message":"Created Item with id [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:04:10"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [NYiNursxVPLBvBy3,IoXpBYaOCOqJF6Aw] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:04:15"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [Wb5BRq9TiDcBW7Fp,q1E6Mxtuig8YjCOm] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:04:30"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [qfWmpldZ7WEG5ZJo,Nc2crmfiIXj5dlGi] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:04:38"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [irIxiE789GC7JDMp,jTjSFfNy9gtdgeEH] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:05:08"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [hIh8nUKQSVo8tPCT,7YgJsDtDOuJ11zkl] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:05:14"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [ZshcRDiAdl8Yq9Ht,47WVvExEs76aenaD] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:05:22"}
+{"level":"info","message":"Created Item with id [sxhw7u0tl2cptRlE]","timestamp":"2025-06-27 01:05:41"}
+{"level":"info","message":"Deleted Item with id [e0pDSGRzPiByHOpH]","timestamp":"2025-06-27 01:05:46"}
+{"level":"info","message":"Deleted Item with id [sxhw7u0tl2cptRlE]","timestamp":"2025-06-27 01:06:16"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [XY8xxiJljcJrBh42,uRo6aWoxEZR6ULva] in parent Item [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:06:23"}
+{"level":"info","message":"Deleted Item with id [w2BVukYZ3S5ytCUj]","timestamp":"2025-06-27 01:06:29"}
+{"level":"info","message":"Created Item with id [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:06:38"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [BxTbKyUQvbrhWura,aCzJ54hKE2yzsCrf] in parent Item [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:06:43"}
+{"level":"info","message":"Created Item with id [aMdtr515tAfoGnJg] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 01:16:41"}
+{"level":"info","message":"Created Item with id [SvhUm4DsS187A47G] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 01:18:48"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [tpnyFpeoxOlvYzKp,no9fdKPi9R2ZXdiY] in parent Item [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:22:11"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [S1NJ8qK14U0vboMv,HPEx4SYtDE73HHkr] in parent Item [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:22:18"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [c85t6DsCNYFSq8up,JkuPQfkVxqo5WXYT] in parent Item [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:22:44"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [QVIKA8VQDbF7WVGT,Qk9lePe7V2SAVwNs] in parent Item [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:23:12"}
+{"level":"info","message":"Deleted Item with id [mdNGQHlmzbFL4K0n]","timestamp":"2025-06-27 01:24:55"}
+{"level":"info","message":"Created Item with id [KF3KNB6xtsmSLGGN]","timestamp":"2025-06-27 01:25:44"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [GSlCcUIpVLX9vak7,WqkXwEcqb2ZO597g] in parent Item [KF3KNB6xtsmSLGGN]","timestamp":"2025-06-27 01:25:48"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [RJ0pU9veG8xKtCUf,3gSv8Q7HJRwPIqVw] in parent Item [KF3KNB6xtsmSLGGN]","timestamp":"2025-06-27 01:25:50"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [d1nG5VZa47VeG0wF,y5nCleXdazTg2tel] in parent Item [aMdtr515tAfoGnJg]","timestamp":"2025-06-27 01:29:55"}
+{"level":"info","message":"Deleted Item with id [aMdtr515tAfoGnJg] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 01:30:48"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [YGSKRsMKmk9f8X6M,LtuDwMgJSwpprP44] in parent Item [KF3KNB6xtsmSLGGN]","timestamp":"2025-06-27 01:31:00"}
+{"level":"info","message":"Deleted Item with id [KF3KNB6xtsmSLGGN]","timestamp":"2025-06-27 01:31:11"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-06-27 01:31:26"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-06-27 01:31:26"}
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-06-27 18:39:23"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-06-27 18:39:24"}
+{"level":"info","message":"Created client session 96cefa0a4ccdcb4a03212705","timestamp":"2025-06-27 18:39:25"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-06-27 18:39:26"}
+{"level":"info","message":"Downloading package - 0%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 1%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 2%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 3%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 4%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 5%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 6%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 7%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 8%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 9%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 10%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 11%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 12%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 13%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 14%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 15%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 16%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 17%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 18%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 20%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 21%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 22%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 24%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 25%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 26%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 27%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 28%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 29%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 30%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 32%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 33%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 34%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 36%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 37%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 38%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 39%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 40%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 41%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 42%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 44%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 45%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 46%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 48%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 49%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 50%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 52%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 53%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 54%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 56%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 57%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 58%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 60%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 61%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 62%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 64%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 65%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 66%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 68%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 69%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 70%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 72%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 73%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 74%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 76%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 77%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 78%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 80%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 81%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 82%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 84%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 85%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 86%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 88%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 89%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 90%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 92%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 93%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 94%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 95%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 96%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 97%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 98%","timestamp":"2025-06-27 18:39:33"}
+{"level":"info","message":"Downloading package - 100%","timestamp":"2025-06-27 18:39:33"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 1%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 2%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 3%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 4%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 5%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 6%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 7%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 8%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 9%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 10%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 11%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 12%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 13%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 14%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 15%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 16%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 17%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 18%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 19%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 20%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 21%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 22%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 23%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 24%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 25%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 26%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 27%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 28%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 29%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 30%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 31%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 32%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 33%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 34%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 35%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 36%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 37%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 38%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 39%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 40%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 41%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 42%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 43%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 44%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 45%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 46%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 47%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 48%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 49%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 50%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 51%","timestamp":"2025-06-27 18:39:48"}
+{"level":"info","message":"Installing package - 52%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 53%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 54%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 55%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 56%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 57%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 58%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 59%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 60%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 61%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 62%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 63%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 64%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 65%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 66%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 67%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 68%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 69%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 70%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 71%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 72%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 73%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 74%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 75%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 76%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 77%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 78%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 79%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 80%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 81%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 82%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 83%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 84%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 85%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 86%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 87%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 88%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 89%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 90%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 91%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 92%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 93%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 94%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 95%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 96%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 97%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 98%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 99%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installing package - 100%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Installed system custom-system-builder","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"complete - 100%","timestamp":"2025-06-27 18:39:49"}
+{"level":"info","message":"Writing backup for world 'cor'.","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 0%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 1%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 2%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 12%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 40%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 51%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 52%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 80%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 81%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"createBackup archive progress - 100%","timestamp":"2025-06-27 18:40:05"}
+{"level":"info","message":"Wrote backup for world 'cor' to 'D:\\Games\\Foundry_12_331\\Source\\Backups\\worlds\\cor\\world.cor.2025-06-27.1751074805769.bak'. Wrote 504710 bytes.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating World cor to upgraded custom-system-builder System version 4.6.5","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating Actor documents to the latest game system data model","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Successfully migrated 2 Actor documents to the latest system data model.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating Cards documents to the latest game system data model","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Successfully migrated 0 Cards documents to the latest system data model.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating ChatMessage documents to the latest game system data model","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Successfully migrated 1 ChatMessage documents to the latest system data model.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating Combat documents to the latest game system data model","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Successfully migrated 0 Combat documents to the latest system data model.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating Item documents to the latest game system data model","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Successfully migrated 11 Item documents to the latest system data model.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migrating Scene documents to the latest game system data model","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Successfully migrated 0 Scene documents to the latest system data model.","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Migration of World cor was successful to custom-system-builder System version 4.6.5","timestamp":"2025-06-27 18:40:06"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-06-27 18:40:06"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"96cefa0a4ccdcb4a03212705","timestamp":"2025-06-27 18:40:08"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-06-27 18:40:10"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 824ms","timestamp":"2025-06-27 18:40:10"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-06-27 18:40:14"}
+{"level":"info","message":"Activating scene Test Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-06-27 18:40:20"}
+{"level":"info","message":"Created Scene with id [ToHFX83WUlOYRZY9]","timestamp":"2025-06-27 18:40:20"}
+{"level":"info","message":"Created MeasuredTemplate with id [CTlib2TCRvCbw3pB] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-06-27 18:41:29"}
+{"level":"info","message":"Created MeasuredTemplate with id [7VnRbVxzoVZQw85U] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-06-27 18:41:33"}
+{"level":"info","message":"Created MeasuredTemplate with id [9wBbPof0b5typnKg] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-06-27 18:41:43"}
+{"level":"info","message":"Created ActiveEffect with id [dOwWU1vw9EBoHRy6] in parent Item [AnBrfvID50nlt5HM]","timestamp":"2025-06-27 19:02:06"}
+{"level":"info","message":"Deleted ActiveEffect with id [ixuopuPKZtmh8SyR] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:02:44"}
+{"level":"info","message":"Created ActiveEffect with id [38wkbnW4hU9BxPEX] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:03:01"}
+{"level":"info","message":"Created Item with id [R1ue5fV5zp1XQ9F1]","timestamp":"2025-06-27 19:03:18"}
+{"level":"info","message":"Created ActiveEffect with id [m2w2pZvBlyDdfOvK] in parent Item [R1ue5fV5zp1XQ9F1]","timestamp":"2025-06-27 19:03:26"}
+{"level":"info","message":"Deleted ActiveEffect with id [dOwWU1vw9EBoHRy6] in parent Item [AnBrfvID50nlt5HM]","timestamp":"2025-06-27 19:03:26"}
+{"level":"info","message":"Created Item with id [qL2ozW7jBH2ho1pr]","timestamp":"2025-06-27 19:03:33"}
+{"level":"info","message":"Created ActiveEffect with id [Qeo4DP3ROWy4Th64] in parent Item [qL2ozW7jBH2ho1pr]","timestamp":"2025-06-27 19:03:50"}
+{"level":"info","message":"Deleted ActiveEffect with id [m2w2pZvBlyDdfOvK] in parent Item [R1ue5fV5zp1XQ9F1]","timestamp":"2025-06-27 19:03:50"}
+{"level":"info","message":"Created ActiveEffect with id [aAkQP5eow7h0A5iI] in parent Item [qL2ozW7jBH2ho1pr]","timestamp":"2025-06-27 19:03:55"}
+{"level":"info","message":"Deleted ActiveEffect with id [38wkbnW4hU9BxPEX] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:05:14"}
+{"level":"info","message":"Deleted ActiveEffect with id [IJNrh0EhjBfg1Urq] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:05:15"}
+{"level":"info","message":"Created ActiveEffect with id [F9MdLOF6Em6VGQlO] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:05:18"}
+{"level":"info","message":"Created ActiveEffect with id [Mw6GL6uYvm7a5poI] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:05:20"}
+{"level":"info","message":"Created Item with id [ME9yarNMbX1TICre]","timestamp":"2025-06-27 19:05:59"}
+{"level":"info","message":"Created ActiveEffect with id [YDuES4hS5sxhBcAr] in parent Item [ME9yarNMbX1TICre]","timestamp":"2025-06-27 19:06:06"}
+{"level":"info","message":"Deleted ActiveEffect with id [EJfiBlvuRSKwtTQu] in parent Item [Rije9HP8yRb0BJx7]","timestamp":"2025-06-27 19:07:42"}
+{"level":"info","message":"Created ActiveEffect with id [aAWuCXR4BvVcEbgS] in parent Item [Rije9HP8yRb0BJx7]","timestamp":"2025-06-27 19:07:49"}
+{"level":"info","message":"Deleted ActiveEffect with id [I2hDCQa2Rj17w7B0] in parent Item [w93gqyqpGxHz1Chz]","timestamp":"2025-06-27 19:07:58"}
+{"level":"info","message":"Created ActiveEffect with id [HFp9kF5jPjhAWyFs] in parent Item [w93gqyqpGxHz1Chz]","timestamp":"2025-06-27 19:07:58"}
+{"level":"info","message":"Created Item with id [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:08:25"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [FWVMCQ2awTIPkP4I,R2o6yGoMvsikXwcU] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:08:34"}
+{"level":"info","message":"Created Item with id [5uTNqoswdhyeCjPZ] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:11:04"}
+{"level":"info","message":"Created Item with id [giNP6G91VTa2FH9C] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:11:06"}
+{"level":"info","message":"Created ActiveEffect with id [uJe7pXTZMQY3yFdj] in parent Item [qL2ozW7jBH2ho1pr]","timestamp":"2025-06-27 19:12:00"}
+{"level":"info","message":"Created ActiveEffect with id [05E3pnwsPNgQM21w] in parent Item [5uTNqoswdhyeCjPZ]","timestamp":"2025-06-27 19:14:26"}
+{"level":"info","message":"Created ActiveEffect with id [aaISljN310SHQkYH] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:15:15"}
+{"level":"info","message":"Deleted ActiveEffect with id [aaISljN310SHQkYH] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:15:35"}
+{"level":"info","message":"Created ActiveEffect with id [KgusRgr023ql5cWT] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:15:38"}
+{"level":"info","message":"Deleted Item with id [5uTNqoswdhyeCjPZ] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:16:23"}
+{"level":"info","message":"Created Item with id [cqFOkPCyCzsi8RrR] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:16:26"}
+{"level":"info","message":"Deleted Item with id [cqFOkPCyCzsi8RrR] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:16:31"}
+{"level":"info","message":"Created ActiveEffect with id [H4b3EgtJWTZGMaI4] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:16:36"}
+{"level":"info","message":"Created Item with id [v0DkEmKXpLlUypnm] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:16:59"}
+{"level":"info","message":"Deleted ActiveEffect with id [KgusRgr023ql5cWT] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:18:37"}
+{"level":"info","message":"Created ActiveEffect with id [or74DBiOPYM9ISBP] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:18:41"}
+{"level":"info","message":"Deleted ActiveEffect with id [H4b3EgtJWTZGMaI4] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:18:46"}
+{"level":"info","message":"Created ActiveEffect with id [lXJNXHqWDptY9X8j] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:18:46"}
+{"level":"info","message":"Deleted ActiveEffect with id [or74DBiOPYM9ISBP] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:19:32"}
+{"level":"info","message":"Created ActiveEffect with id [3FJru0Our4i3xUna] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-06-27 19:19:35"}
+{"level":"info","message":"Deleted ActiveEffect with id [lXJNXHqWDptY9X8j] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:19:39"}
+{"level":"info","message":"Created ActiveEffect with id [4Q8SAQzYnhv6FKYc] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-06-27 19:19:39"}
+{"level":"info","message":"Deleted Item with id [v0DkEmKXpLlUypnm] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:19:52"}
+{"level":"info","message":"Created Item with id [JdKpkD8uU2rCLVGj] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-06-27 19:19:55"}
+{"level":"info","message":"Created MeasuredTemplate with id [SQKeOuC74Dt3PcEq] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-06-27 19:20:15"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-06-27 19:37:10"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-06-27 19:37:10"}

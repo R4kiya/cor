@@ -271,10 +271,10 @@ export class FormulaFunctionImporter {
                 return returnValue;
             },
             replace: (text, pattern, replacement) => {
-                return text.replace(pattern, replacement);
+                return text.toString().replace(pattern, replacement);
             },
             replaceAll: (text, pattern, replacement) => {
-                return text.replaceAll(pattern, replacement);
+                return text.toString().replaceAll(pattern, replacement);
             },
             concat: (...values) => {
                 return ''.concat(...values.map(String));

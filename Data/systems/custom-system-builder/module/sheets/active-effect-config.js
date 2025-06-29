@@ -63,5 +63,15 @@ Hooks.on('renderActiveEffectConfig', async (activeEffectConfig, html, _data) => 
         input.value = String(activeEffectConfig.document.changes[index].priority ?? '');
         container.appendChild(input);
         row.querySelector('.value')?.after(container);
+        const keyInput = row.querySelector('.key > input');
+        const keyTextarea = document.createElement('textarea');
+        keyTextarea.name = keyInput.name;
+        keyTextarea.innerHTML = keyInput.value;
+        keyInput.replaceWith(keyTextarea);
+        const valueInput = row.querySelector('.value > input');
+        const valueTextarea = document.createElement('textarea');
+        valueTextarea.name = valueInput.name;
+        valueTextarea.innerHTML = valueInput.value;
+        valueInput.replaceWith(valueTextarea);
     });
 });

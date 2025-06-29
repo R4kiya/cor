@@ -6,6 +6,7 @@
  * file, You can obtain one at https://mozilla.org/MPL/2.0/.
  */
 import TemplateSystem from './templateSystem.js';
+import CustomActiveEffect from './activeEffect.js';
 /**
  * Extend the base Actor document
  * @extends {Actor}
@@ -50,6 +51,39 @@ export class CustomActor extends Actor {
             if (!data.flags?.[game.system.id]?.version) {
                 this.setFlag(game.system.id, 'version', game.system.version);
             }
+        }
+    }
+    async toggleStatusEffect(statusId, { active, overlay } = { active: false, overlay: false }) {
+        const status = CONFIG.statusEffects.find((e) => e.id === statusId);
+        if (!status)
+            throw new Error(`Invalid status ID "${statusId}" provided to Actor#toggleStatusEffect`);
+        const existing = [];
+        for (const effect of this.effects) {
+            //@ts-expect-error Outdated types
+            const statuses = effect.statuses;
+            if (statuses.size === 1 && statuses.has(status.id) && effect.id)
+                existing.push(effect);
+        }
+        // Remove the existing effects unless the status effect is forced active
+        if (existing.length) {
+            if (active)
+                return true;
+            CustomActiveEffect.removeActiveEffects(this, existing);
+            return false;
+        }
+        // Create a new effect unless the status effect is forced inactive
+        if (!active && active !== undefined)
+            return;
+        //@ts-expect-error Outdated types
+        const effect = await ActiveEffect.implementation.fromStatusEffect(statusId);
+        if (overlay)
+            effect.updateSource({ 'flags.core.overlay': true });
+        if (effect.getFlag(game.system.id, 'isPredefined')) {
+            return CustomActiveEffect.addActiveEffect(this, effect.id);
+        }
+        else {
+            //@ts-expect-error Outdated types
+            return ActiveEffect.implementation.create(effect, { parent: this, keepId: true });
         }
     }
     /**

@@ -265,9 +265,7 @@ class ActiveEffectContainer extends ExtensibleTable {
                 TABLE_SORT_OPTION.MANUAL,
             showOnlyOwnEffects: html.find('#activeEffectShowOnlyOwnEffects').is(':checked'),
             suggestExistingEffects: html.find('#activeEffectSuggestExistingEffects').is(':checked'),
-            //@ts-expect-error Outdated types
-            filterTags: html.find('#activeEffectFilterTags')[0]
-                .value,
+            filterTags: html.find('#activeEffectFilterTags')[0].value.split(','),
             staticRowLayout: {
                 active: {
                     enabled: html.find('#activeEffectActiveEnabled').is(':checked'),
@@ -551,6 +549,12 @@ class ActiveEffectContainer extends ExtensibleTable {
             }
             const firstElt = $(fullDescription)[0];
             const descriptionHTML = firstElt.innerHTML;
+            if (firstElt.tagName === 'ul' || firstElt.tagName === 'ol')
+                Array.from(firstElt.children).forEach((value, idx) => {
+                    if (idx > 0) {
+                        value.remove();
+                    }
+                });
             if (descriptionHTML.includes('.')) {
                 return $(`<${firstElt.tagName}>${firstElt.innerHTML.split('.')[0]}.</${firstElt.tagName}>`)[0]
                     .outerHTML;

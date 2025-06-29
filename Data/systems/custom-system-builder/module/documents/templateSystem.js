@@ -229,12 +229,15 @@ class TemplateSystem {
                             activeEffectsByKey[prop].forEach(({ activeEffect, change }) => {
                                 if (!activeEffect.active)
                                     return;
-                                const override = activeEffect.apply(this.entity, change);
-                                newComputedValue = Object.values(override)[0];
+                                const override = activeEffect.apply(this.entity, change, true);
+                                if (Object.values(override)[0]) {
+                                    newComputedValue = Object.values(override)[0];
+                                }
                             });
                         }
                     }
                     // If successful, the property is added to computedProp and deleted from uncomputedProps
+                    foundry.utils.setProperty(system.props, prop, castToPrimitive(newComputedValue));
                     foundry.utils.setProperty(computedProps, prop, castToPrimitive(newComputedValue));
                     Logger.debug(`Computed ${prop} successfully !`, newComputedValue);
                     delete uncomputedProps[prop];
@@ -242,6 +245,7 @@ class TemplateSystem {
                 catch (err) {
                     if (err instanceof UncomputableError) {
                         Logger.debug(`Passing prop ${prop} to next round of computation...`);
+                        foundry.utils.setProperty(system.props, prop, undefined);
                     }
                     else {
                         throw err;
@@ -574,14 +578,14 @@ class TemplateSystem {
                     effectKeys.forEach((key) => {
                         const c = foundry.utils.deepClone(change);
                         c.key = key.startsWith('system.props.') ? key.substring(13) : key;
-                        c.key = c.key.startsWith('target.') ? c.key.substring(7) : c.key;
                         //@ts-expect-error Outdated types
                         c.effect = effect;
                         c.priority = c.priority ?? c.mode * 10;
-                        if (!activeEffectsByKey[c.key]) {
-                            activeEffectsByKey[c.key] = [];
+                        const sortingKey = c.key.startsWith('target.') ? c.key.substring(7) : c.key;
+                        if (!activeEffectsByKey[sortingKey]) {
+                            activeEffectsByKey[sortingKey] = [];
                         }
-                        activeEffectsByKey[c.key].push({ activeEffect: effect, change: c });
+                        activeEffectsByKey[sortingKey].push({ activeEffect: effect, change: c });
                     });
                 }
                 catch (err) {
@@ -658,6 +662,10 @@ class TemplateSystem {
             }
         });
         this.entity.effects.forEach((existingEffect) => {
+            if (existingEffect.getFlag(game.system.id, 'isFromTemplate') &&
+                existingEffect.getFlag(game.system.id, 'originalParentId') !== template.id) {
+                effectsToDelete.push(existingEffect.id);
+            }
             if (existingEffect.getFlag(game.system.id, 'originalParentId') === template.id) {
                 if (!template.effects.has(existingEffect.getFlag(game.system.id, 'originalId'))) {
                     effectsToDelete.push(existingEffect.id);

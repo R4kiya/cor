@@ -101,6 +101,6 @@
     },
     "url": "https://gitlab.com/custom-system-builder/custom-system-builder/",
     "manifest": "https://gitlab.com/custom-system-builder/custom-system-builder/-/releases/permalink/latest/downloads/system.json",
-    "download": "https://gitlab.com/custom-system-builder/custom-system-builder/-/releases/4.6.3/downloads/custom-system-builder.zip",
-    "version": "4.6.3"
+    "download": "https://gitlab.com/custom-system-builder/custom-system-builder/-/releases/4.6.5/downloads/custom-system-builder.zip",
+    "version": "4.6.5"
 }

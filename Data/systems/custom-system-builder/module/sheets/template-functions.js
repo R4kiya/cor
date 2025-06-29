@@ -171,7 +171,10 @@ const component = async (callback, { componentData = undefined, allowedComponent
                     const specificJQueryData = html.find('.custom-system-' + newCompType + '-editor').clone();
                     const mergedJQueryData = $('<div></div>').append(genericJQueryData, specificJQueryData);
                     mergedJQueryData.find('string-tags').each((idx, elt) => {
-                        $(elt).replaceWith(html.find(`#${elt.id}`));
+                        const inputReplace = $('<input></input>');
+                        inputReplace.attr('id', elt.id);
+                        inputReplace.val(html.find(`#${elt.id}`).val());
+                        $(elt).replaceWith(inputReplace);
                     });
                     mergedJQueryData.find('select').each((idx, elt) => {
                         $(elt).val(html.find(`#${elt.id}`).val());

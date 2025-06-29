@@ -16,6 +16,7 @@ import migration_3_2_2 from './migration_3_2_2.js';
 import migration_3_2_4 from './migration_3_2_4.js';
 import migration_4_5_0 from './migration_4_5_0.js';
 import migration_4_5_1 from './migration_4_5_1.js';
+import migration_4_6_4 from './migration_4_6_4.js';
 export default async function processMigrations() {
     await detectSwitchVersion();
     await migration_1_1_0.processMigration();
@@ -28,6 +29,7 @@ export default async function processMigrations() {
     await migration_3_2_4.processMigration();
     await migration_4_5_0.processMigration();
     await migration_4_5_1.processMigration();
+    await migration_4_6_4.processMigration();
 }
 async function detectSwitchVersion() {
     if (!game.user.isGM) {
