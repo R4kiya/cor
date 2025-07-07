@@ -33,7 +33,7 @@ class ActiveEffectContainer extends ExtensibleTable {
         this._sortOption = props.sortOption ?? TABLE_SORT_OPTION.MANUAL;
         this._showOnlyOwnEffects = props.showOnlyOwnEffects ?? false;
         this._suggestExistingEffects = props.suggestExistingEffects ?? false;
-        this._filterTags = props.filterTags ?? [];
+        this._filterTags = props.filterTags?.filter((tag) => tag !== '') ?? [];
     }
     /**
      * Renders component
@@ -265,7 +265,10 @@ class ActiveEffectContainer extends ExtensibleTable {
                 TABLE_SORT_OPTION.MANUAL,
             showOnlyOwnEffects: html.find('#activeEffectShowOnlyOwnEffects').is(':checked'),
             suggestExistingEffects: html.find('#activeEffectSuggestExistingEffects').is(':checked'),
-            filterTags: html.find('#activeEffectFilterTags')[0].value.split(','),
+            filterTags: html
+                .find('#activeEffectFilterTags')[0]
+                .value.split(',')
+                .filter((tag) => tag !== ''),
             staticRowLayout: {
                 active: {
                     enabled: html.find('#activeEffectActiveEnabled').is(':checked'),

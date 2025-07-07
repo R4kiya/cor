@@ -405,7 +405,7 @@ class TemplateSystem {
      * @throws {Error} If the key does not have a roll
      */
     async roll(rollKey, options = {}) {
-        const { postMessage = true, alternative = false } = options;
+        const { postMessage, alternative = false } = options;
         const error = new Error(`Label Roll Message with the key "${rollKey}" not found in Entity`);
         const refRoll = rollKey.split('.');
         const [filterMatch, parentProp, filterProp, filterValue] = refRoll.shift()?.match(/^([a-zA-Z0-9_]+)\((@?[a-zA-Z0-9_]+)=(.+)\)$/) ?? [];

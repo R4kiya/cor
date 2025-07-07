@@ -1,0 +1,283 @@
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-07-02 03:10:38"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-07-02 03:10:39"}
+{"level":"info","message":"Created client session 74cebed3a2f53ed8536579db","timestamp":"2025-07-02 03:10:40"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-07-02 03:10:41"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-07-02 03:10:42"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Connected to database \"custom-system-builder-example.examples\"","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Created 0 Folder documents with ids: []","timestamp":"2025-07-02 03:10:43"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-07-02 03:10:43"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"74cebed3a2f53ed8536579db","timestamp":"2025-07-02 03:10:45"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-02 03:10:46"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 740ms","timestamp":"2025-07-02 03:10:46"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-07-02 03:10:53"}
+{"level":"info","message":"Created ChatMessage with id [mwCqmiAaw0Xo35Tn]","timestamp":"2025-07-02 03:11:54"}
+{"level":"info","message":"Created ChatMessage with id [2tz3tfisaV3DMbst]","timestamp":"2025-07-02 03:11:58"}
+{"level":"info","message":"Deleted ChatMessage with id [2tz3tfisaV3DMbst]","timestamp":"2025-07-02 03:12:05"}
+{"level":"info","message":"Deleted ChatMessage with id [mwCqmiAaw0Xo35Tn]","timestamp":"2025-07-02 03:12:06"}
+{"level":"info","message":"Created ChatMessage with id [HHQDWeYx69I2Z3JH]","timestamp":"2025-07-02 03:12:08"}
+{"level":"info","message":"Created ChatMessage with id [y3d6eemYVzLdQJOw]","timestamp":"2025-07-02 03:40:10"}
+{"level":"info","message":"Created ChatMessage with id [UZQPrpGrQubMErnY]","timestamp":"2025-07-02 03:40:15"}
+{"level":"info","message":"Created ChatMessage with id [ujyU1eGB5VtUImlv]","timestamp":"2025-07-02 03:40:24"}
+{"level":"info","message":"Created ChatMessage with id [hViN72049Q3rSGtu]","timestamp":"2025-07-02 03:40:27"}
+{"level":"info","message":"Created ChatMessage with id [8RTq0gQLgmGQxK2b]","timestamp":"2025-07-02 03:40:28"}
+{"level":"info","message":"Created ChatMessage with id [i2u81deUjWX2AyNB]","timestamp":"2025-07-02 03:40:29"}
+{"level":"info","message":"Deleted 7 ChatMessage documents","timestamp":"2025-07-02 03:40:48"}
+{"level":"info","message":"Created Item with id [MBNk3S1VTzktbPGe] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 03:47:16"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [detwahWvq1ZzYn50,Z5xs6RsRBN3wfNqL] in parent Item [3WVOoNdnjFNGqKc4]","timestamp":"2025-07-02 03:55:55"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-07-02 04:02:45"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-07-02 04:02:45"}
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-07-02 13:15:16"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-07-02 13:15:16"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-07-02 13:15:16"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-07-02 13:15:17"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-07-02 13:15:17"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-07-02 13:15:17"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-07-02 13:15:17"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-07-02 13:15:17"}
+{"level":"info","message":"Created client session 3e1099bbbe114416be2fafac","timestamp":"2025-07-02 13:15:19"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-07-02 13:15:19"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-07-02 13:15:27"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Connected to database \"custom-system-builder-example.examples\"","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Created 0 Folder documents with ids: []","timestamp":"2025-07-02 13:18:51"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-07-02 13:18:51"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"3e1099bbbe114416be2fafac","timestamp":"2025-07-02 13:18:53"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-02 13:18:55"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 820ms","timestamp":"2025-07-02 13:18:55"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-07-02 13:19:04"}
+{"level":"info","message":"Deleted ActiveEffect with id [svLhEcMunEAhbsnp] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:22:24"}
+{"level":"info","message":"Deleted ActiveEffect with id [IUWReoD825MjEqR3] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:22:25"}
+{"level":"info","message":"Created ActiveEffect with id [wHQCwQK5gtUadfTK] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:22:29"}
+{"level":"info","message":"Created ActiveEffect with id [4hOvBPPFUy6ilNY4] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:22:32"}
+{"level":"info","message":"Deleted 2 ActiveEffect documents with ids: [epQcQc3HEiDjxIiF,N95alkWFr89fcOsb] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 13:25:32"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [UIDbtZ3CsxWJIfJ1,tsxXM1WwqfbiBQXg] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 13:25:32"}
+{"level":"info","message":"Deleted ActiveEffect with id [4hOvBPPFUy6ilNY4] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:25:41"}
+{"level":"info","message":"Deleted ActiveEffect with id [wHQCwQK5gtUadfTK] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:25:42"}
+{"level":"info","message":"Created ActiveEffect with id [z6disnFMTwipsQfj] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:25:49"}
+{"level":"info","message":"Created ActiveEffect with id [UOI65qULEFFVqZjr] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:25:51"}
+{"level":"info","message":"Deleted ActiveEffect with id [UOI65qULEFFVqZjr] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:26:05"}
+{"level":"info","message":"Deleted ActiveEffect with id [z6disnFMTwipsQfj] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:26:05"}
+{"level":"info","message":"Created ActiveEffect with id [wxyzlI4Q34wh7jLz] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:26:11"}
+{"level":"info","message":"Created ActiveEffect with id [srdP5aa1bi5tTQrI] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:26:13"}
+{"level":"info","message":"Deleted 2 ActiveEffect documents with ids: [UIDbtZ3CsxWJIfJ1,tsxXM1WwqfbiBQXg] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 13:26:23"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [jkjJtnN1xdRaz4Nu,7JvclnoDere1dcHh] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 13:26:23"}
+{"level":"info","message":"Deleted Item with id [Efl1RfrS5P6F2G3e] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 13:30:15"}
+{"level":"info","message":"Deleted Item with id [PHY9Wrm4mGWmzjr7] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 13:30:16"}
+{"level":"info","message":"Created ChatMessage with id [2HuEay2KTEv91SBb]","timestamp":"2025-07-02 13:30:23"}
+{"level":"info","message":"Created Item with id [pShPfXKAgLjBlfJ0] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 13:30:35"}
+{"level":"info","message":"Created Item with id [PvqmTlo0hPUZQ6Oa] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 13:30:37"}
+{"level":"info","message":"Deleted ActiveEffect with id [Mw6GL6uYvm7a5poI] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 13:33:43"}
+{"level":"info","message":"Deleted ActiveEffect with id [G0XDeXX8WSmJrIOu] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 13:33:51"}
+{"level":"info","message":"Deleted ActiveEffect with id [Qeo4DP3ROWy4Th64] in parent Item [qL2ozW7jBH2ho1pr]","timestamp":"2025-07-02 13:34:16"}
+{"level":"info","message":"Deleted ActiveEffect with id [FWVMCQ2awTIPkP4I] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-07-02 13:34:23"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [kWr4eLQ5iBYtPAi2,0Sncw9RPA2CvQWxx] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-07-02 13:34:23"}
+{"level":"info","message":"Created ChatMessage with id [pt3lo9pi1lL2U8O0]","timestamp":"2025-07-02 13:46:35"}
+{"level":"info","message":"Created ChatMessage with id [Ech97v25kToLVDTC]","timestamp":"2025-07-02 14:00:40"}
+{"level":"info","message":"Deleted 3 ChatMessage documents with ids: [2HuEay2KTEv91SBb,pt3lo9pi1lL2U8O0,Ech97v25kToLVDTC]","timestamp":"2025-07-02 14:00:50"}
+{"level":"info","message":"Toggling game pause status to true","timestamp":"2025-07-02 15:39:27"}
+{"level":"info","message":"Created ChatMessage with id [r3DDUG64ojWAwHk8]","timestamp":"2025-07-02 16:10:26"}
+{"level":"info","message":"Created MeasuredTemplate with id [GZKRE9FajkIZwTU3] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-02 16:24:19"}
+{"level":"info","message":"Deleted MeasuredTemplate with id [9wBbPof0b5typnKg] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-02 16:24:46"}
+{"level":"info","message":"Created Item with id [FltZoIMS5L3Ht0LY]","timestamp":"2025-07-02 16:27:41"}
+{"level":"info","message":"Created 4 ActiveEffect documents with ids: [J6xJ0G2CCyQfJ1lz,WRjj1jOaesqT6H6J,fiDcOa4ditQ6GAHf,mDlfKiMn5YgFFgpy] in parent Item [FltZoIMS5L3Ht0LY]","timestamp":"2025-07-02 16:27:48"}
+{"level":"info","message":"Created Item with id [KZhp3WL4US2ffNg7] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 16:30:36"}
+{"level":"info","message":"Created MeasuredTemplate with id [tlSOVF2OWSWs5n2m] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-02 16:56:07"}
+{"level":"info","message":"Created MeasuredTemplate with id [PpouSEO7UWWJTysy] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-02 16:57:24"}
+{"level":"info","message":"Created MeasuredTemplate with id [3gefY37vjcGGuDPQ] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-02 16:59:46"}
+{"level":"info","message":"Created ChatMessage with id [c15e5amJ3JQBiA9W]","timestamp":"2025-07-02 17:21:36"}
+{"level":"info","message":"Created Item with id [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:04:02"}
+{"level":"info","message":"Created 4 ActiveEffect documents with ids: [mDvhZZLEuXNZO1vh,Ukl8gj4dxeEhELvI,ZtLw3Bzd3MQr2DTT,oRj3g7MD3CH8gTu4] in parent Item [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:04:08"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-02 18:07:59"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 824ms","timestamp":"2025-07-02 18:07:59"}
+{"level":"info","message":"Deleted 2 ChatMessage documents with ids: [r3DDUG64ojWAwHk8,c15e5amJ3JQBiA9W]","timestamp":"2025-07-02 18:08:07"}
+{"level":"info","message":"Created Item with id [MEIon8IlokXHP0eB] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:10:05"}
+{"level":"info","message":"Created ActiveEffect with id [SgVnqGC2wD9vxAtk] in parent Item [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:15:02"}
+{"level":"info","message":"Deleted Item with id [MEIon8IlokXHP0eB] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:20:30"}
+{"level":"info","message":"Created Item with id [w1Xvz4AEBet09tYh] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:20:33"}
+{"level":"info","message":"Created ChatMessage with id [UPkoLkxJybtslHnk]","timestamp":"2025-07-02 18:23:04"}
+{"level":"info","message":"Deleted ActiveEffect with id [G0XDeXX8WSmJrIOu] in parent Item [pShPfXKAgLjBlfJ0]","timestamp":"2025-07-02 18:34:26"}
+{"level":"info","message":"Deleted 3 ActiveEffect documents with ids: [FWVMCQ2awTIPkP4I,detwahWvq1ZzYn50,Z5xs6RsRBN3wfNqL] in parent Item [3WVOoNdnjFNGqKc4]","timestamp":"2025-07-02 18:36:42"}
+{"level":"info","message":"Created 2 ActiveEffect documents with ids: [Eq81pXwKLPzdsCPM,ThPlLpWNDN0QbVlV] in parent Item [3WVOoNdnjFNGqKc4]","timestamp":"2025-07-02 18:36:42"}
+{"level":"info","message":"Deleted ActiveEffect with id [G0XDeXX8WSmJrIOu] in parent Item [PvqmTlo0hPUZQ6Oa]","timestamp":"2025-07-02 18:36:56"}
+{"level":"info","message":"Deleted Item with id [KZhp3WL4US2ffNg7] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:45:47"}
+{"level":"info","message":"Deleted Item with id [PvqmTlo0hPUZQ6Oa] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:45:48"}
+{"level":"info","message":"Deleted Item with id [w1Xvz4AEBet09tYh] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:45:49"}
+{"level":"info","message":"Deleted Item with id [pShPfXKAgLjBlfJ0] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:45:50"}
+{"level":"info","message":"Deleted Item with id [l1VsmkrUjU41VcVI] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:45:51"}
+{"level":"info","message":"Deleted Item with id [3WVOoNdnjFNGqKc4] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:45:51"}
+{"level":"info","message":"Created Item with id [EfZ4bef99OQwA3OZ] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:46:18"}
+{"level":"info","message":"Deleted Item with id [EfZ4bef99OQwA3OZ] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:46:33"}
+{"level":"info","message":"Deleted ActiveEffect with id [3FJru0Our4i3xUna] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 18:46:46"}
+{"level":"info","message":"Created ActiveEffect with id [kGg2PPuy2mv0ebel] in parent Item [JsFYk7l1wJWzwLG8]","timestamp":"2025-07-02 18:46:50"}
+{"level":"info","message":"Deleted ActiveEffect with id [4Q8SAQzYnhv6FKYc] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-07-02 18:46:55"}
+{"level":"info","message":"Created ActiveEffect with id [czTX1UpCBUjF5lX5] in parent Item [Qoqx24mzLWCnS98o]","timestamp":"2025-07-02 18:46:55"}
+{"level":"info","message":"Created Item with id [DK9SthyJa9lZalxs] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:47:08"}
+{"level":"info","message":"Created Item with id [CbPW5c9WZqwQKzYq] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:48:19"}
+{"level":"info","message":"Deleted Item with id [CbPW5c9WZqwQKzYq] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:50:42"}
+{"level":"info","message":"Deleted ActiveEffect with id [aAWuCXR4BvVcEbgS] in parent Item [Rije9HP8yRb0BJx7]","timestamp":"2025-07-02 18:50:47"}
+{"level":"info","message":"Created ActiveEffect with id [KPoxiSZynrd5b3LA] in parent Item [Rije9HP8yRb0BJx7]","timestamp":"2025-07-02 18:50:51"}
+{"level":"info","message":"Created Item with id [gs5DoW65DrnyWdYa] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:51:12"}
+{"level":"info","message":"Deleted ActiveEffect with id [HFp9kF5jPjhAWyFs] in parent Item [gs5DoW65DrnyWdYa]","timestamp":"2025-07-02 18:51:20"}
+{"level":"info","message":"Created ActiveEffect with id [nPgw7Ky3qSlpUofy] in parent Item [gs5DoW65DrnyWdYa]","timestamp":"2025-07-02 18:51:20"}
+{"level":"info","message":"Deleted ActiveEffect with id [fiDcOa4ditQ6GAHf] in parent Item [FltZoIMS5L3Ht0LY]","timestamp":"2025-07-02 18:52:05"}
+{"level":"info","message":"Created ActiveEffect with id [3NA9IC3s7eQUyMtR] in parent Item [FltZoIMS5L3Ht0LY]","timestamp":"2025-07-02 18:52:05"}
+{"level":"info","message":"Deleted ActiveEffect with id [ZtLw3Bzd3MQr2DTT] in parent Item [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:53:36"}
+{"level":"info","message":"Created ActiveEffect with id [jPN4xJ1svIaQs0Sl] in parent Item [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:53:36"}
+{"level":"info","message":"Deleted ActiveEffect with id [SgVnqGC2wD9vxAtk] in parent Item [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:53:47"}
+{"level":"info","message":"Created ActiveEffect with id [1fJrUs6hQ9Uv358t] in parent Item [Tasq8Mnt2QHvnGsA]","timestamp":"2025-07-02 18:53:52"}
+{"level":"info","message":"Deleted ActiveEffect with id [nEjBH3nxbZWVJwBr] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 18:55:28"}
+{"level":"info","message":"Created ActiveEffect with id [J4slQ5pJEMz7zZY5] in parent Item [rxvy13ISTDSkmxJv]","timestamp":"2025-07-02 18:55:28"}
+{"level":"info","message":"Deleted Item with id [DK9SthyJa9lZalxs] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:57:23"}
+{"level":"info","message":"Created Item with id [ueneCc1h1rBC8Cfi] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-02 18:57:26"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-07-02 22:21:56"}
+{"level":"info","message":"Created JournalEntry with id [rI7VssXF2Ieol97I]","timestamp":"2025-07-02 22:50:25"}
+{"level":"info","message":"Created JournalEntryPage with id [LhmSz5C4H6ZwrSsk] in parent JournalEntry [rI7VssXF2Ieol97I]","timestamp":"2025-07-02 22:52:20"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 22:52:20"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 22:52:27"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 22:52:27"}
+{"level":"info","message":"Created Setting with id [ZHLFAuOLi8FSlkqE]","timestamp":"2025-07-02 23:16:13"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-02 23:19:42"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 1019ms","timestamp":"2025-07-02 23:19:42"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:19:59"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:20:20"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:20:20"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-02 23:22:37"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 929ms","timestamp":"2025-07-02 23:22:37"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:22:45"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:23:29"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:23:29"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:23:39"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:23:54"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:23:54"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:24:07"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:24:26"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:24:26"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:32:42"}
+{"level":"info","message":"Created Setting with id [a5CUD1REVa1OZIKz]","timestamp":"2025-07-02 23:33:14"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:34:42"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:35:16"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:35:16"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:36:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:37:44"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:38:35"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:38:40"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:39:44"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:40:08"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:40:08"}
+{"level":"info","message":"Created JournalEntryPage with id [OLMCLbyzsmaMyPF4] in parent JournalEntry [rI7VssXF2Ieol97I]","timestamp":"2025-07-02 23:40:54"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:40:54"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:40:57"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:41:04"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:41:04"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:41:08"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:41:54"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:41:54"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:41:57"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-02 23:42:07"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:42:07"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:42:09"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:42:19"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:42:19"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:42:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:43:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:44:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:45:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:46:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:47:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:48:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:49:25"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:52:26"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:53:26"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:54:26"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:57:26"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:58:26"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content'.","timestamp":"2025-07-02 23:59:44"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.OLMCLbyzsmaMyPF4#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-02 23:59:44"}

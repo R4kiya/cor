@@ -463,10 +463,10 @@ class Label extends InputComponent {
         }
         const res = {};
         if (this._rollMessage) {
-            res.main = this._generateChatFunction(this._rollMessage, entity, options);
+            res.main = this._generateChatFunction(this._rollMessage, entity, options, this._rollMessageToChat);
         }
         if (this._altRollMessage) {
-            res.alternative = this._generateChatFunction(this._altRollMessage, entity, options);
+            res.alternative = this._generateChatFunction(this._altRollMessage, entity, options, this._altRollMessageToChat);
         }
         if (Object.keys(res).length === 0) {
             return undefined;
@@ -475,8 +475,8 @@ class Label extends InputComponent {
             [this.key]: res
         };
     }
-    _generateChatFunction(rollMessage, entity, options = {}) {
-        return async (postMessage = true, overrideOptions = {}) => {
+    _generateChatFunction(rollMessage, entity, options = {}, defaultPostMessage = true) {
+        return async (postMessage, overrideOptions = {}) => {
             const phrase = new ComputablePhrase(rollMessage);
             await phrase.compute({
                 ...entity.system.props,
@@ -487,7 +487,7 @@ class Label extends InputComponent {
                 computeExplanation: true,
                 triggerEntity: entity
             });
-            if (postMessage) {
+            if (postMessage ?? defaultPostMessage) {
                 let speakerEntity;
                 switch (entity.entityType) {
                     case 'actor':

@@ -1,0 +1,434 @@
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-03 00:02:32"}
+{"level":"info","message":"Created JournalEntryPage with id [5qMU6O6YLNFJKKCS] in parent JournalEntry [rI7VssXF2Ieol97I]","timestamp":"2025-07-03 00:03:44"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:03:44"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content'.","timestamp":"2025-07-03 00:03:48"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.LhmSz5C4H6ZwrSsk#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 00:03:48"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:04:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:08:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:09:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:10:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:11:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:13:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:14:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:15:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:19:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:20:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:21:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:22:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:23:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:25:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:27:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:28:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:29:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:30:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:34:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:35:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:36:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:37:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:38:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:39:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:40:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:41:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:43:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:44:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:45:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:47:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:48:44"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 00:56:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:01:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:02:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:03:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:04:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:06:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:07:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:09:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:10:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:11:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:12:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:14:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:15:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:16:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:17:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:19:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:20:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:21:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:22:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:26:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:27:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:28:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:32:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:33:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:34:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:35:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:36:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:37:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:39:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:40:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:41:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:44:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:45:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:46:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:47:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:48:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:49:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:50:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:52:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:53:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:54:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:55:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:56:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 01:57:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:00:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:01:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:02:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:03:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:04:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:05:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:07:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:08:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:09:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:10:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:11:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:12:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:14:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:15:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:16:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:17:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:18:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:19:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:21:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:22:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:23:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:24:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:25:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:26:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:27:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:28:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:29:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:30:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:31:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:32:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:33:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:34:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:35:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:36:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:37:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:38:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:39:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:40:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:41:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:44:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:45:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:46:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:47:45"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:53:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:54:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:55:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:56:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:57:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:58:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 02:59:46"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 03:00:46"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 03:01:31"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 03:01:31"}
+{"level":"info","message":"Created JournalEntryPage with id [kbphgehkNXnIRAtF] in parent JournalEntry [rI7VssXF2Ieol97I]","timestamp":"2025-07-03 03:07:41"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:07:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:08:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:09:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:10:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:11:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:13:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:14:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:15:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:16:41"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:17:41"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:18:20"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 03:18:20"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:34:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:35:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:36:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:37:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:38:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:39:34"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:40:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:41:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:42:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:43:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:44:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:45:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:46:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:49:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:50:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:51:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:53:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:55:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 03:56:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:01:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:03:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:04:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:05:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:06:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:07:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:08:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:09:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:10:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:12:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:13:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:15:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:16:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:17:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:18:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:19:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:20:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:21:35"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:22:35"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 04:24:31"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 04:24:31"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-07-03 04:34:19"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-07-03 04:34:19"}
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-07-03 12:20:38"}
+{"level":"info","message":"Created client session 37e0c93d53ef2e3be513e592","timestamp":"2025-07-03 12:20:40"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-07-03 12:20:41"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-07-03 12:20:51"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Connected to database \"custom-system-builder-example.examples\"","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Created 0 Folder documents with ids: []","timestamp":"2025-07-03 12:20:52"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-07-03 12:20:52"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-07-03 12:20:53"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"37e0c93d53ef2e3be513e592","timestamp":"2025-07-03 12:20:54"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-03 12:20:56"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 984ms","timestamp":"2025-07-03 12:20:56"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-07-03 12:21:12"}
+{"level":"info","message":"Created MeasuredTemplate with id [AJ1zf72fKp1nAj8U] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-03 12:23:04"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 12:27:13"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 12:27:49"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 12:27:49"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:30:06"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:31:06"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:33:56"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 12:33:56"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 12:46:50"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content'.","timestamp":"2025-07-03 12:47:15"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.5qMU6O6YLNFJKKCS#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 12:47:15"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:47:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:48:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:50:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:52:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:53:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:54:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:55:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:56:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:57:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:58:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 12:59:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 13:00:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 13:03:17"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 13:05:17"}
+{"level":"info","message":"Created JournalEntryPage with id [dw671pCdXPLy8fej] in parent JournalEntry [rI7VssXF2Ieol97I]","timestamp":"2025-07-03 13:06:18"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:06:18"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-07-03 13:06:23"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-07-03 13:06:23"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 13:06:23"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 13:06:23"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:06:23"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 13:06:23"}
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-07-03 13:06:26"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-07-03 13:06:26"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-07-03 13:06:26"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-07-03 13:06:27"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-07-03 13:06:27"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-07-03 13:06:27"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-07-03 13:06:27"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-07-03 13:06:27"}
+{"level":"info","message":"Created client session 7d7cdfdce9622f898ac95f86","timestamp":"2025-07-03 13:06:29"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-07-03 13:06:29"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-07-03 13:06:31"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Connected to database \"custom-system-builder-example.examples\"","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Created 0 Folder documents with ids: []","timestamp":"2025-07-03 13:06:32"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-07-03 13:06:32"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"7d7cdfdce9622f898ac95f86","timestamp":"2025-07-03 13:06:34"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-03 13:06:36"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 936ms","timestamp":"2025-07-03 13:06:36"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-07-03 13:06:37"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-07-03 13:06:42"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:07:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:08:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:09:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:10:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:11:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:12:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:13:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:14:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:15:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:16:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:17:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:18:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:19:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:20:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:24:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:25:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:26:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:27:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:28:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:29:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:30:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:31:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:33:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:34:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:35:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:36:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:37:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:38:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:39:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:40:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:41:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:42:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:43:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:44:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:45:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:48:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:49:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:51:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:52:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:53:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:55:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:57:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:58:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 13:59:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:00:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:01:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:02:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:07:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:08:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:18:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:19:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:20:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:21:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:25:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:26:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:27:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:28:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:29:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:30:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:31:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:33:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:34:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:36:00"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:37:00"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 14:42:12"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 14:42:12"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 14:42:13"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 14:43:13"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 14:44:13"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content'.","timestamp":"2025-07-03 14:44:36"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.kbphgehkNXnIRAtF#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 14:44:36"}
+{"level":"info","message":"Created JournalEntryPage with id [vVL2KQ71mvjMNe72] in parent JournalEntry [rI7VssXF2Ieol97I]","timestamp":"2025-07-03 14:47:29"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:47:29"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:47:43"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:48:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:49:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:50:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:51:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:52:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 14:54:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:26:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:29:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:30:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:31:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:32:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:33:29"}
+{"level":"debug","message":"Broadcasting autosave update for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 15:34:29"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content'.","timestamp":"2025-07-03 19:16:39"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.vVL2KQ71mvjMNe72#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 19:16:39"}
+{"level":"debug","message":"Starting edit session for user 's4a1LqWdL4mt3rP7' and instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 21:43:10"}
+{"level":"debug","message":"Retiring user 's4a1LqWdL4mt3rP7' from editing session for instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content'.","timestamp":"2025-07-03 21:43:24"}
+{"level":"debug","message":"Instance 'JournalEntry.rI7VssXF2Ieol97I.JournalEntryPage.dw671pCdXPLy8fej#text.content' has no more active editors, cleaning up.","timestamp":"2025-07-03 21:43:24"}
+{"level":"info","message":"Created ChatMessage with id [G8nbO6lNDqqvL4nE]","timestamp":"2025-07-03 23:48:37"}

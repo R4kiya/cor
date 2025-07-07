@@ -1,0 +1,128 @@
+{"level":"info","message":"Created Item with id [cKkuJ0cTEByvoG6o]","timestamp":"2025-07-06 00:10:57"}
+{"level":"info","message":"Created Item with id [CjSV1drvuFdqr0zn]","timestamp":"2025-07-06 00:31:48"}
+{"level":"info","message":"Created Item with id [iW02QoT6XX5xZyIl]","timestamp":"2025-07-06 00:38:39"}
+{"level":"info","message":"Created Item with id [KMtCiaXgeMlxAKbG]","timestamp":"2025-07-06 00:49:41"}
+{"level":"info","message":"Created Folder with id [GmhFrEsqnDZNgRhp]","timestamp":"2025-07-06 01:00:56"}
+{"level":"info","message":"Created Item with id [WicMWdIya2CcjScS] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:24:21"}
+{"level":"info","message":"Deleted Item with id [WicMWdIya2CcjScS] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:25:57"}
+{"level":"info","message":"Created Item with id [sEL1w6857uk0S6Cv] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:27:10"}
+{"level":"info","message":"Deleted Item with id [sEL1w6857uk0S6Cv] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:30:05"}
+{"level":"info","message":"Created Item with id [VOszTUeANNUqKJ4n] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:30:09"}
+{"level":"info","message":"Deleted Item with id [VOszTUeANNUqKJ4n] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:40:56"}
+{"level":"info","message":"Deleted Item with id [z5ZtiZfrTbAVDjgZ] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:41:00"}
+{"level":"info","message":"Created Item with id [EUFGMEqSdUSgJckM] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 01:41:03"}
+{"level":"info","message":"Shutting down Foundry Virtual Tabletop server","timestamp":"2025-07-06 02:03:55"}
+{"level":"info","message":"Shut-down success. Goodbye!","timestamp":"2025-07-06 02:03:55"}
+{"level":"info","message":"Running on Node.js - Version 20.9.0","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Foundry Virtual Tabletop - Version 12 Build 331","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"User Data Directory - \"D:/Games/Foundry_12_331/Source\"","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Application Options:\n{\n  \"compressStatic\": true,\n  \"fullscreen\": true,\n  \"hostname\": null,\n  \"language\": \"en.core\",\n  \"localHostname\": null,\n  \"port\": 30000,\n  \"proxyPort\": null,\n  \"proxySSL\": false,\n  \"routePrefix\": null,\n  \"updateChannel\": \"stable\",\n  \"upnp\": true,\n  \"awsConfig\": null,\n  \"compressSocket\": true,\n  \"cssTheme\": \"foundry\",\n  \"deleteNEDB\": false,\n  \"hotReload\": false,\n  \"passwordSalt\": null,\n  \"sslCert\": null,\n  \"sslKey\": null,\n  \"world\": null,\n  \"serviceConfig\": null,\n  \"telemetry\": true,\n  \"protocol\": null,\n  \"upnpLeaseDuration\": null,\n  \"adminPassword\": null,\n  \"noBackups\": false\n}","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Software license verification succeeded","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Requesting UPnP port forwarding to destination port 30000","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Running Electron application with version 29.4.0 using Chromium 122.0.6261.156","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Server started and listening on port 30000","timestamp":"2025-07-06 12:50:42"}
+{"level":"info","message":"Created client session 5ab1043623b631a4a96dcb54","timestamp":"2025-07-06 12:50:45"}
+{"level":"info","message":"Core software stable update 12.343 is available!","timestamp":"2025-07-06 12:50:46"}
+{"level":"info","message":"Connected to database \"actors\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 7%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"cards\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 14%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"messages\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 21%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"combats\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 29%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"fog\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 36%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"folders\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 43%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"items\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 50%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"journal\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 57%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"macros\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 64%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"playlists\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 71%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"tables\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 79%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"scenes\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 86%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"settings\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 93%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Connected to database \"users\"","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Loading World Data - 100%","timestamp":"2025-07-06 12:50:50"}
+{"level":"info","message":"Launching World | Migrating World Data - 7%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 14%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 21%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 29%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 36%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 43%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 50%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 57%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 64%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 71%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 79%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 86%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 93%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Migrating World Data - 100%","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Connected to database \"custom-system-builder-example.examples\"","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Created 0 Folder documents with ids: []","timestamp":"2025-07-06 12:50:51"}
+{"level":"info","message":"Launching World | Complete","timestamp":"2025-07-06 12:50:51"}
+{"ip":"::1","level":"info","message":"User authentication successful for user Gamemaster","session":"5ab1043623b631a4a96dcb54","timestamp":"2025-07-06 12:50:54"}
+{"level":"info","message":"No system update for Custom System Builder is currently available.","timestamp":"2025-07-06 12:50:55"}
+{"level":"info","message":"Vended World data to User [s4a1LqWdL4mt3rP7] in 853ms","timestamp":"2025-07-06 12:50:55"}
+{"code":"ECOMPROMISED","level":"error","message":"Unable to update lock within the stale threshold","stack":"Error: Unable to update lock within the stale threshold\n    at D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\proper-lockfile\\lib\\lockfile.js:136:25\n    at callback (D:\\Games\\Foundry_12_331\\Foundry Virtual Tabletop\\resources\\app\\node_modules\\graceful-fs\\polyfills.js:306:20)\n    at FSReqCallback.oncomplete (node:fs:200:5)","timestamp":"2025-07-06 12:50:57"}
+{"level":"info","message":"Created Item with id [rvFCjU8gaJREy2hp]","timestamp":"2025-07-06 12:55:39"}
+{"level":"info","message":"Created Item with id [FouKEVwvzlwZJVZF]","timestamp":"2025-07-06 13:05:13"}
+{"level":"info","message":"Created Item with id [k01b7slywVoAQFL2]","timestamp":"2025-07-06 13:14:27"}
+{"level":"info","message":"Created Item with id [noWpqN9glTzqs9ve]","timestamp":"2025-07-06 13:28:05"}
+{"level":"info","message":"Created Item with id [bnTZhY7mS947mHVP]","timestamp":"2025-07-06 13:38:01"}
+{"level":"info","message":"Created Item with id [jqrfRWb1wU4EeR5F]","timestamp":"2025-07-06 13:44:33"}
+{"level":"info","message":"Created ActiveEffect with id [atNGsr5SRKaSQt4E] in parent Item [jqrfRWb1wU4EeR5F]","timestamp":"2025-07-06 13:44:43"}
+{"level":"info","message":"Created MeasuredTemplate with id [xDyqfYXvz9wWFfag] in parent Scene [ToHFX83WUlOYRZY9]","timestamp":"2025-07-06 13:44:58"}
+{"level":"info","message":"Created Item with id [OrnnBK2Nmlnw0RZm]","timestamp":"2025-07-06 13:45:20"}
+{"level":"info","message":"Created Item with id [lgVUYtSJhuz4z3Qh] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 13:53:58"}
+{"level":"info","message":"Deleted Item with id [lgVUYtSJhuz4z3Qh] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 17:36:35"}
+{"level":"info","message":"Deleted Item with id [EUFGMEqSdUSgJckM] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 17:36:37"}
+{"level":"info","message":"Created Item with id [abCR7jrOYaLdVhPF] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 17:36:40"}
+{"level":"info","message":"Created ChatMessage with id [skmHcp1u2Il7loY1]","timestamp":"2025-07-06 19:04:52"}
+{"level":"info","message":"Created ChatMessage with id [G67RelwOskZuXhqX]","timestamp":"2025-07-06 19:05:38"}
+{"level":"info","message":"Created ChatMessage with id [NhFqZPCtqZ6mTPVN]","timestamp":"2025-07-06 19:05:51"}
+{"level":"info","message":"Deleted Item with id [abCR7jrOYaLdVhPF] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 19:25:03"}
+{"level":"info","message":"Created Item with id [nH5oNHYd7vItOka6] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 19:25:24"}
+{"level":"info","message":"Deleted Item with id [nH5oNHYd7vItOka6] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 19:37:08"}
+{"level":"info","message":"Created Item with id [ENm8oPWkdQ1EQNaK] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 19:37:16"}
+{"level":"info","message":"Created ChatMessage with id [oCl9mTw4i8GVld4K]","timestamp":"2025-07-06 19:51:44"}
+{"level":"info","message":"Created ChatMessage with id [xXayBxawsSboLnjM]","timestamp":"2025-07-06 20:01:18"}
+{"level":"info","message":"Created ChatMessage with id [kFPAdI30L4TvYsu1]","timestamp":"2025-07-06 20:01:19"}
+{"level":"info","message":"Created ChatMessage with id [wCe14Qnh2YlLdMhc]","timestamp":"2025-07-06 20:01:21"}
+{"level":"info","message":"Created ChatMessage with id [7x1SjjmK78XRfnqJ]","timestamp":"2025-07-06 20:07:18"}
+{"level":"info","message":"Created ChatMessage with id [yjanxI81KhcLH40y]","timestamp":"2025-07-06 20:08:02"}
+{"level":"info","message":"Created ChatMessage with id [2Qkfq6dK986b9b1K]","timestamp":"2025-07-06 20:30:26"}
+{"level":"info","message":"Created ChatMessage with id [6twG0S1kjbHnWKzR]","timestamp":"2025-07-06 20:40:03"}
+{"level":"info","message":"Created ChatMessage with id [QRM2BzSISwro5SiM]","timestamp":"2025-07-06 20:42:19"}
+{"level":"info","message":"Created ChatMessage with id [UeiQtq0trmJWcUfi]","timestamp":"2025-07-06 20:48:25"}
+{"level":"info","message":"Created ChatMessage with id [XJcoTQDDmlRjDURa]","timestamp":"2025-07-06 21:00:20"}
+{"level":"info","message":"Created ChatMessage with id [mdPLRXp2y3AMszDl]","timestamp":"2025-07-06 21:07:57"}
+{"level":"info","message":"Created ChatMessage with id [Bv2Bs9Yx9uIllumB]","timestamp":"2025-07-06 21:12:52"}
+{"level":"info","message":"Created ChatMessage with id [XFXiItmqu4dQFgKn]","timestamp":"2025-07-06 21:35:43"}
+{"level":"info","message":"Created ChatMessage with id [Fq2PmZFgtj33PT8h]","timestamp":"2025-07-06 21:35:45"}
+{"level":"info","message":"Created ChatMessage with id [PGirzZ0YBaL1hO5U]","timestamp":"2025-07-06 21:35:46"}
+{"level":"info","message":"Created ChatMessage with id [IzO5Fmz8FcIjgRi1]","timestamp":"2025-07-06 21:36:37"}
+{"level":"info","message":"Created ChatMessage with id [DzhrwQGWpN4UtbBu]","timestamp":"2025-07-06 21:36:38"}
+{"level":"info","message":"Created ChatMessage with id [d7q0ciKEUhSIRaF7]","timestamp":"2025-07-06 21:36:45"}
+{"level":"info","message":"Created ChatMessage with id [PULLGh5WC10WOJDs]","timestamp":"2025-07-06 21:39:47"}
+{"level":"info","message":"Created ChatMessage with id [Jc5VTMpLYQoie33l]","timestamp":"2025-07-06 21:39:52"}
+{"level":"info","message":"Created ChatMessage with id [anpsqK9eco6ZN87B]","timestamp":"2025-07-06 21:40:20"}
+{"level":"info","message":"Created ChatMessage with id [MRnXJSwOke91T0d8]","timestamp":"2025-07-06 21:40:27"}
+{"level":"info","message":"Created ChatMessage with id [2McboiITiDrYujbd]","timestamp":"2025-07-06 21:48:11"}
+{"level":"info","message":"Deleted Item with id [ueneCc1h1rBC8Cfi] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 21:48:22"}
+{"level":"info","message":"Created Item with id [NvNmMV8sHfeYhLUU] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 21:48:30"}
+{"level":"info","message":"Created Item with id [2KdZMUPiTgLbkC6t] in parent Actor [ss4peiSqCrEeUtVI]","timestamp":"2025-07-06 21:48:33"}
+{"level":"info","message":"Created ChatMessage with id [qldXw5ReO8fuRWhB]","timestamp":"2025-07-06 21:49:03"}
+{"level":"info","message":"Toggling game pause status to false","timestamp":"2025-07-06 21:49:10"}
+{"level":"info","message":"Toggling game pause status to true","timestamp":"2025-07-06 21:49:10"}
+{"level":"info","message":"Deleted 29 ChatMessage documents","timestamp":"2025-07-06 22:02:23"}
+{"level":"info","message":"Created Item with id [w2Jf8JN6NGabOli0]","timestamp":"2025-07-06 22:10:38"}
+{"level":"info","message":"Deleted Item with id [w2Jf8JN6NGabOli0]","timestamp":"2025-07-06 22:10:41"}
+{"level":"info","message":"Deleted Item with id [2TOSJy3woLb6uor0]","timestamp":"2025-07-06 22:10:43"}
